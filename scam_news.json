@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-09-13 06:11:38",
+  "updated_at": "2026-09-14 06:11:54",
   "unwire": [
     {
-      "title": "Anthropic 揭 7 大 Claude 濫用類別　由網絡攻擊到導彈研發",
-      "link": "https://unwire.hk/2026/09/12/anthropic-claude-threat-intelligence-report-2026/ai/?utm_source=rss&utm_medium=rss&utm_campaign=anthropic-claude-threat-intelligence-report-2026",
-      "pubDate": "2026-09-12 14:00:31",
-      "description": "Anthropic 於 9 月 10 日發布最詳盡的一份 Claude 濫用報告，披露公司威脅情報團隊如何偵測及阻止多宗嚴重濫用個案，報告涵蓋 2025 年 12 月至 2026 年 8 月期間，列出 7 大危害範疇，包括網絡攻擊、影響力行動、監控、常規武器研發、生物濫用、詐騙及非法蒸餾，涉及 Claude Haiku、Sonnet 及 Opus 三款模型，唯一涉及 Fable 或 Mythos 級模型個案屬蒸餾類別。",
+      "title": "YOASOBI x BlizzCon 2026 專訪：《Overwatch 》鬥陣特攻聯名曲〈Orion〉創作揭秘 － 3 顆星寫下島田兄弟與霧子羈絆",
+      "link": "https://unwire.hk/2026/09/14/yoasobiorion/game-channel/?utm_source=rss&utm_medium=rss&utm_campaign=yoasobiorion",
+      "pubDate": "2026-09-13 16:28:28",
+      "description": "YOASOBI 與《Overwatch》（鬥陣特攻）合作的單曲〈Orion〉，當然不會單純把一首 J-POP  […]",
       "source": "unwire.hk"
     },
     {
-      "title": "中國 AI 被指一度由 Claude 代答 解放軍重要地點閉路電視 一度流入美國系統",
-      "link": "https://unwire.hk/2026/09/12/kimi-claude-distillation/ai/?utm_source=rss&utm_medium=rss&utm_campaign=kimi-claude-distillation",
-      "pubDate": "2026-09-12 13:02:38",
-      "description": "美國 AI 公司 Anthropic 於 9 月 10 日發布最新威脅情報報告，指控北京 AI 初創 Moon […]",
+      "title": "iPhone 18 預購夜爆信用卡盜刷潮 兩日逾 700 人報案涉款 1,470 萬元",
+      "link": "https://unwire.hk/2026/09/13/iphone18-credit-card-fraud-hk/tech-secure/?utm_source=rss&utm_medium=rss&utm_campaign=iphone18-credit-card-fraud-hk",
+      "pubDate": "2026-09-13 15:06:45",
+      "description": "Apple 新一代 iPhone 18 系列上周六（9 月 12 日）晚上 8 時開放預購，隨即 […]",
       "source": "unwire.hk"
     },
     {
-      "title": "新 Apple Watch Ultra 定位系統剩四個　悄悄移除 GLONASS 支援",
-      "link": "https://unwire.hk/2026/09/12/apple-watch-ultra-4-removes-glonass-support/life-tech/watch-wireless-home/?utm_source=rss&utm_medium=rss&utm_campaign=apple-watch-ultra-4-removes-glonass-support",
-      "pubDate": "2026-09-12 13:00:02",
-      "description": "Apple 最新技術規格顯示，Apple Watch Ultra 4 已移除俄羅斯衛星導航系統 GLONASS 支援，新機現時只支援 GPS、Galileo、QZSS 及北斗四個定位系統，而上一代 Ultra 3 原本連 GLONASS 共支援五個系統。",
+      "title": "LG 否認智能電視監聽指控　只承認掃描家居網絡追蹤 3.63 億部裝置",
+      "link": "https://unwire.hk/2026/09/13/lg-denies-smart-tv-eavesdropping-tracking-network-devices/life-tech/?utm_source=rss&utm_medium=rss&utm_campaign=lg-denies-smart-tv-eavesdropping-tracking-network-devices",
+      "pubDate": "2026-09-13 14:00:28",
+      "description": "早前有科技媒體聯同獨立網絡安全研究員發布一段長達 135 分鐘調查影片，指控 LG 智能電視即使處於待機或斷網狀態，仍會錄音，同時掃描家居 Wi-Fi 網絡並收集連接該網絡的所有裝置資料。LG 事後向多間媒體發出聲明反駁，強調智能電視不會收集、錄音或傳送家居內對話，「除非用戶主動啟動語音功能」。",
       "source": "unwire.hk"
     },
     {
-      "title": "白宮稱 Truth Social 全球最強　數據卻顯示日活躍用戶不足 X 五百分之一",
-      "link": "https://unwire.hk/2026/09/12/truth-social-user-data-decline-white-house-claim/life-tech/social-network/?utm_source=rss&utm_medium=rss&utm_campaign=truth-social-user-data-decline-white-house-claim",
-      "pubDate": "2026-09-12 12:00:20",
-      "description": "白宮發言人 Davis Ingle 向《紐約時報》表示，特朗普持有的社交平台 Truth Social 是「全球最強大及最受歡迎社交平台」，市場數據卻與這個講法完全相反，Truth Social 用戶規模及流量都遠遠落後多個主流平台，甚至連續多個月出現下跌趨勢。",
+      "title": "律師用 AI 撰寫謀殺案上訴狀　藐視法庭成立罰款 5,000 美元",
+      "link": "https://unwire.hk/2026/09/13/lawyer-fined-chatgpt-hallucinated-police-testimony/ai/?utm_source=rss&utm_medium=rss&utm_campaign=lawyer-fined-chatgpt-hallucinated-police-testimony",
+      "pubDate": "2026-09-13 13:00:11",
+      "description": "美國新墨西哥州最高法院裁定，律師 Stephen Aarons 因未有核實 AI 生成上訴狀內容準確性，任由文件出現虛構證人及捏造警方證供，裁定其藐視法庭並罰款 5,000 美元（約港幣 HK$39,000），法院於 9 月 9 日發出裁決，同時將個案轉交律師紀律委員會調查。",
       "source": "unwire.hk"
     },
     {
-      "title": "Meta 全新頭戴裝置設計圖流出　代號「Project Phoenix」混合實境眼鏡",
-      "link": "https://unwire.hk/2026/09/12/meta-project-phoenix-headset-leak-design/vr-mr-ar/?utm_source=rss&utm_medium=rss&utm_campaign=meta-project-phoenix-headset-leak-design",
-      "pubDate": "2026-09-12 11:00:06",
-      "description": "有外媒近日在 Meta 頭戴裝置韌體套件中，發現代號「Project Phoenix」新裝置清晰設計圖，而 Meta Connect 開發者大會將會在 9 月 23 日至 24 日舉辦。設計圖顯示這款裝置採用貼近眼鏡風格纖薄機身，定位介乎大型頭戴裝置及智能眼鏡之間，可望與 Xreal 及 Viture 等品牌混合實境眼鏡競爭。",
+      "title": "南韓 AI 發展面臨缺電危機　最快 2030 年代初需求相當於 20 座核電廠",
+      "link": "https://unwire.hk/2026/09/13/south-korea-ai-chip-power-demand-nuclear-reactors/life-tech/green-2/?utm_source=rss&utm_medium=rss&utm_campaign=south-korea-ai-chip-power-demand-nuclear-reactors",
+      "pubDate": "2026-09-13 12:00:31",
+      "description": "南韓政府預計人工智能發展及配套晶片廠將令全國電力需求增加 25 至 30 吉瓦，若完全以核能填補，相當於南韓現行反應堆標準下約 20 座核電廠的發電量，政府現正審視是否需要增建，南韓氣候能源環境部長 Kim Sung-whan 表示，核能「是能源結構中必須考慮的關鍵元素」，相關表態發生在政府下月公布長期能源路線圖更新之前，該路線圖規劃年期將延長兩年至 2040 年。Kim 拒絕透露具體需要增建幾多座反應堆，強調相關數字仍待專家審視。",
       "source": "unwire.hk"
     }
   ],
   "scam": [
     {
-      "title": "Meta AI登陸香港　將陸續擴至facebook、Instagram、Threads及WhatsApp",
-      "link": "https://news.mingpao.com/ins/%E7%86%B1%E9%BB%9E/article/20260911/s00024/1789102180698/meta-ai%E7%99%BB%E9%99%B8%E9%A6%99%E6%B8%AF-%E5%B0%87%E9%99%B8%E7%BA%8C%E6%93%B4%E8%87%B3facebook-instagram-threads%E5%8F%8Awhatsapp",
-      "pubDate": "2026-09-11 05:20:36",
-      "description": "Meta今（11日）宣布在香港市場推出Meta AI。本地用戶即日起可透過獨立應用程式Meta AI及官方網頁meta.ai使用。Meta AI亦將陸續擴展至facebook、Messenger、Instagram、Threads及WhatsApp等Meta旗下社交平台供用戶使用。",
-      "source": "明報即時"
+      "title": "一名19歲女子懷疑墮入電話騙案　損失約100萬元",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1869877-20260913.htm",
+      "pubDate": "2026-09-13 14:45:57",
+      "description": "一名19歲女子懷疑墮入電話騙案，損失約100萬元。\r\n\r\n警方表示，凌晨約1時接獲該名19歲女子從科技大學宿舍報案，表示接獲來電，對方聲稱為入境處職員，提及她與一宗「洗黑錢」案件有關。她按對方指示，將大約100萬元轉帳到指定戶口。\r\n\r\n警方將案件列作「以欺騙手段取得財產」處理。\r\n\r\n\r\n\r\n\r\n編輯：譚佩貞",
+      "source": "RTHK本地"
     },
     {
-      "title": "譴責外部勢力就支聯會案污衊抹黑",
-      "link": "https://www.news.gov.hk/chi/2026/09/20260912/20260912_115833_161.html",
-      "pubDate": "2026-09-11 16:00:00",
-      "description": "多個美西方國家、反華媒體、境外組織、政客等在特區法庭對「支聯會」煽動顛覆國家政權案被告判刑後，作出種種惡意攻擊和污衊抹黑，特區政府表示強烈不滿和堅決反對，並予以強烈譴責。\n \n特區政府指出，有人藉包括本案在內的危害國家安全犯罪案件，對香港特區的法治、人權等情況捏造謊言，危言聳聽。特區政府促請各方認清客觀事實，停止任何毫無事實根據的惡意攻擊和卑劣的政治操弄。\n \n首先，特區政府已三番四次指出，人權在香港一直受到《中華人民共和國憲法》和《基本法》的堅實憲制保障。《香港國安法》第四條和《維護國家安全條例》第二條清楚訂明香港特區維護國家安全應當尊重和保障人權，依法保護香港居民根據《基本法》、《公民權利",
-      "source": "政府新聞網-治安"
+      "title": "專家料商戶或沒有啟用雙重認證　不法分子乘機犯案",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1869865-20260913.htm",
+      "pubDate": "2026-09-13 10:43:19",
+      "description": "蘋果手機有新型號機款昨晚開始接受預訂，多名市民表示在社交媒體反映沒有買手機，但收到銀行發出的付款短訊，懷疑信用卡被盜用。\r\n\r\n軟件安全及漏洞研究員賴灼東估計，市民的信用卡資料可能早已在不知情的情況下被盜取，不法分子之前沒有使用這些資料，等待今次新手機開售，利用商戶或沒有啟用雙重認證的漏洞，乘機大規模地犯案。\r\n\r\n賴灼東呼籲市民，不要貪圖一時優惠，透過第三方網頁或連結在網上購物，以免信用卡資料被盜用。如發現信用卡懷疑被盜用，應該馬上通知銀行取消該張信用卡，避免資料再次被盜用。\r\n\r\n\r\n\r\n編輯：譚佩貞",
+      "source": "RTHK本地"
     },
     {
-      "title": "支聯會案判刑彰顯法律公義",
-      "link": "https://www.news.gov.hk/chi/2026/09/20260911/20260911_165101_775.html",
-      "pubDate": "2026-09-10 16:00:00",
-      "description": "高等法院原訟法庭今日就「支聯會」、李卓人、何俊仁、鄒幸彤被控煽動顛覆國家政權罪，違反《香港國安法》第23條的案件判刑。保安局局長鄧炳強指，法庭的裁決和判刑斷定此案情節嚴重，必須嚴懲以彰顯法治。\n \n鄧炳強今日會見傳媒時說，案件清晰揭露「支聯會」的本質，其綱領目標是要推翻和破壞中國共產黨在《憲法》下的領導地位。「支聯會」長期利用不同幌子舉行各類公開活動，包括試圖舉辦非法集會，以口號煽動市民作出所謂的抗爭，實際上是有意在香港社會埋下仇恨中國共產黨和中央政府的種子，透過激起民眾對中國共產黨和中央政府的厭惡、憎恨等情緒，煽動他們顛覆國家政權，必須依法震懾。\n \n鄧炳強指出，斷定案件情節嚴重的原因有六。",
-      "source": "政府新聞網-治安"
+      "title": "警方：逾700人報案疑信用卡被盜用購智能電話　涉款1470萬",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1869864-20260913.htm",
+      "pubDate": "2026-09-13 10:36:34",
+      "description": "多名市民懷疑被盜用信用卡訂購新手機。警方昨日至今日接獲超過700人報案，懷疑信用卡被盜用於網上購買智能電話，涉款約1470萬元，最大金額的一宗案件涉款約11萬4千元。\r\n\r\n經初步調查，案件暫列「以欺騙手段取得財產」，暫未有人被捕。\r\n\r\n\r\n\r\n編輯：譚佩貞",
+      "source": "RTHK本地"
     },
     {
-      "title": "特首：法律不容假借民主傷害國家",
-      "link": "https://www.news.gov.hk/chi/2026/09/20260911/20260911_132456_243.html",
-      "pubDate": "2026-09-10 16:00:00",
-      "description": "高等法院原訟法庭今日就「支聯會」、李卓人、何俊仁、鄒幸彤被控煽動顛覆國家政權罪，違反《香港國安法》第23條的案件判刑。行政長官李家超說，判刑顯示法庭確定被告所犯罪行非常嚴重，必須嚴懲，又指法律從不容許任何人假借人權、民主和自由之名偷樑換柱，公然傷害自己的國家及同胞。\n \n鄒幸彤被法庭判處監禁七年三個月、李卓人被判監禁七年、早前認罪的何俊仁被判監禁五年兩個月，而「支聯會」則被判罰款150萬元。\n \n法庭裁定本案情節嚴重，並指出案發時《香港國安法》已落實，但仍有部分人不願意接受國家對香港特區行使主權，也不願意接受《中華人民共和國憲法》和《基本法》所確立的憲制秩序。\n \n被告等在動盪不安的社會氛圍下",
-      "source": "政府新聞網-治安"
+      "title": "市民稱信用卡遭盜用買iPhone　警方接逾700人報案　涉款共約1470萬元",
+      "link": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20260913/s00001/1789270967451/%E5%B8%82%E6%B0%91%E7%A8%B1%E4%BF%A1%E7%94%A8%E5%8D%A1%E9%81%AD%E7%9B%9C%E7%94%A8%E8%B2%B7iphone-%E8%AD%A6%E6%96%B9%E6%8E%A5%E9%80%BE700%E4%BA%BA%E5%A0%B1%E6%A1%88-%E6%B6%89%E6%AC%BE%E5%85%B1%E7%B4%841470%E8%90%AC%E5%85%83",
+      "pubDate": "2026-09-13 10:35:03",
+      "description": "【18:25更新】iPhone18 Pro昨晚（12日）開始預訂，社交媒體不少用戶反映其信用卡遭盜用，表示收到銀行信用卡交易短訊通知曾於Apple Store簽帳，用戶卻未曾授權於Apple Store交易，涉事的信用卡用戶涉及不同銀行。警方說，電子報案中心於9月12日至13日接獲超過700人報案，指懷疑其信用卡被盜用於網上購買智能電話。經初步調查，案件暫列「以欺騙手段取得財產」，涉及金額約1470萬元，最大金額的一宗案件涉及約11.4萬元，暫未有人被捕。",
+      "source": "明報即時港聞"
     },
     {
-      "title": "涉宏福苑維修 四人兩公司被檢控",
-      "link": "https://www.news.gov.hk/chi/2026/09/20260909/20260909_163511_833.html",
-      "pubDate": "2026-09-08 16:00:00",
-      "description": "屋宇署今日就去年11月26日大埔宏福苑火災所涉大型樓宇維修工程，向兩間公司和四名人士提出合共259項檢控。\n　\n兩間被起訴公司為宏福苑維修工程的工程顧問公司鴻毅建築師有限公司、工程總承建商宏業建築工程有限公司。四名被起訴人士為鴻毅董事黃俠然、該公司聘用的註冊檢驗人員吳躍，以及宏業兩名董事侯華建和何建業。\n                                                                                           \n宏福苑火災後，屋宇署和房屋局獨立審查組全力調查涉事大維修工程。屋宇署就獨立審查組調查所得的違規事宜，在徵詢律政",
+      "title": "裝備升級 訓練革新",
+      "link": "https://www.news.gov.hk/chi/2026/09/20260911/20260911_155748_312.html",
+      "pubDate": "2026-09-12 16:00:00",
+      "description": "濃煙滾滾，視線受阻，要與烈焰對抗，除了倚仗消防員的勇氣，也需精良裝備作為後盾。\n \n消防處今年全面更換新一代呼吸器，並在訓練設施上引入靈活的活動式間隔系統，從裝備到訓練，為前線消防員打造更堅實防線。\n先利其器\n「以往替換氣樽需要像扭螺絲一樣轉動接頭，耗時約一分半鐘；現在換上快速接頭，只需對準、輕按，不到十秒便完成。」\n \n消防處助理消防區長（呼吸器）葉志豪解釋，濃煙中的一氧化碳和有毒氣體足以致命，因此消防人員進入火場搜救時必須佩戴呼吸器。而在惡劣的環境下更換氣樽，節省下來的每分每秒，於緊急救援中顯得尤為珍貴。\n \n他進一步指出，火場環境一旦變得複雜，撤離路線可能受阻甚或要拯救被困隊員，消防員會",
       "source": "政府新聞網-治安"
     }
   ],
