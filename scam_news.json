@@ -1,80 +1,52 @@
 {
-  "updated_at": "2026-09-19 06:11:53",
+  "updated_at": "2026-09-20 06:11:30",
   "unwire": [
     {
-      "title": "施政報告設 AI 專員一職 D4 級月薪逾 26 萬元 常秘：人才不用擔心",
-      "link": "https://unwire.hk/2026/09/18/ai-commissioner-hk-gov-2026/hottopic/spotlight/?utm_source=rss&utm_medium=rss&utm_campaign=ai-commissioner-hk-gov-2026",
-      "pubDate": "2026-09-18 10:29:12",
-      "description": "行政長官 2026 年施政報告公布，政府將於數字政策辦公室設立「AI 專員」一職，協助各政策局推進人工智能相關 […]",
+      "title": "東京街頭現「人形機械人救護車」 壞機即場換走維持服務",
+      "link": "https://unwire.hk/2026/09/19/gmo-humanoid-robot-ambulance/life-tech/?utm_source=rss&utm_medium=rss&utm_campaign=gmo-humanoid-robot-ambulance",
+      "pubDate": "2026-09-19 14:00:33",
+      "description": "日本 GMO Internet Group 旗下 GMO AI &amp; Robotics Trading（GMO AIR）9 月 8 日在東京正式發佈日本首創「人形機械人救護車」，一旦旗下人形機械人在工作期間故障，救護車會即時到場，若無法即場修復，更會直接換走壞機，讓服務不致中斷。",
       "source": "unwire.hk"
     },
     {
-      "title": "網上流傳中大課堂強制用WeChat點名 必須開手機定位",
-      "link": "https://unwire.hk/2026/09/18/cuhk-wechat-attendance-privacy/tech-secure/?utm_source=rss&utm_medium=rss&utm_campaign=cuhk-wechat-attendance-privacy",
-      "pubDate": "2026-09-18 09:47:54",
-      "description": "香港中文大學一個課堂日前向學生發出通告，要求下課開始透過 WeChat 掃描 QR Code 點名，規定學生上 […]",
+      "title": "英皇查理三世罕有召集 AI 峰會　警告技術落入歧途構成「生存威脅」",
+      "link": "https://unwire.hk/2026/09/19/king-charles-ai-existential-threat/ai/?utm_source=rss&utm_medium=rss&utm_campaign=king-charles-ai-existential-threat",
+      "pubDate": "2026-09-19 13:00:06",
+      "description": "英皇查理三世 9 月 17 日在蘇格蘭 Dumfries House 主持一場閉門 AI 峰會，邀請 Nvidia、Google DeepMind、OpenAI 及 Anthropic 高層與會，直言 AI 技術一旦落入錯誤人手中，將構成「生存威脅」，呼籲業界在為時已晚前建立足夠管控手段。",
       "source": "unwire.hk"
     },
     {
-      "title": "香港 Uber 模擬器登場    Test Drive 加入右軚車   香港實景接單搵錢",
-      "link": "https://unwire.hk/2026/09/18/tdu-hk-uber-rhd-update/game-channel/?utm_source=rss&utm_medium=rss&utm_campaign=tdu-hk-uber-rhd-update",
-      "pubDate": "2026-09-18 08:59:12",
-      "description": "香港 YouTuber 東尼近日於頻道「東尼模擬駕駛 TONY Drive Sim […]",
+      "title": "AI 假歌混入真人歌手專頁　分發漏洞波及多個串流平台",
+      "link": "https://unwire.hk/2026/09/19/ai-song-scam/mobile-music/?utm_source=rss&utm_medium=rss&utm_campaign=ai-song-scam",
+      "pubDate": "2026-09-19 12:00:06",
+      "description": "不法使用者正利用生成式 AI 製作歌曲，再冒充現有藝人透過數碼音樂分發商提交作品，令假歌出現在 Spotify、Apple Music、Tidal、Amazon Music 及 Deezer 正式藝人專頁，有外媒親自重現相關流程，證明上載者毋須盜取藝人帳戶，只需作出虛假權利聲明便可能繞過現有核查程序。",
       "source": "unwire.hk"
     },
     {
-      "title": "Apple 接納 Samsung 加價方案   記憶體、儲存成本齊齊加   iPhone 2027 年恐再迎加價潮",
-      "link": "https://unwire.hk/2026/09/18/apple-samsung-memory-price-hike-2027/mobile-phone/?utm_source=rss&utm_medium=rss&utm_campaign=apple-samsung-memory-price-hike-2027",
-      "pubDate": "2026-09-18 08:31:40",
-      "description": "Apple 與 Samsung 就 2027 年第一季儲存晶片採購價格達成協議，接受 DRAM  […]",
+      "title": "Anthropic 設實體生物實驗室　探索 Claude 操控機械人做研究",
+      "link": "https://unwire.hk/2026/09/19/anthropic-biology-lab-claude-robotics/ai/?utm_source=rss&utm_medium=rss&utm_campaign=anthropic-biology-lab-claude-robotics",
+      "pubDate": "2026-09-19 11:00:39",
+      "description": "Anthropic 已在三藩市灣區設立實體生物實驗室，讓公司進行電腦分析以外的生物實驗，並探索使用 Claude 指揮機械人操作科研儀器，公司表示實驗室自動化仍處早期階段，現時需要專家監督安全，亦未有進行任何人體臨床試驗。",
       "source": "unwire.hk"
     },
     {
-      "title": "小島秀夫親自揭《PHYSINT》主角    Xbox 東京電玩展強勢登場",
-      "link": "https://unwire.hk/2026/09/18/physint-bill-skarsgard-xbox-tgs2026/game-channel/?utm_source=rss&utm_medium=rss&utm_campaign=physint-bill-skarsgard-xbox-tgs2026",
-      "pubDate": "2026-09-18 07:47:13",
-      "description": "Microsoft 在 2026 年東京電玩展（Tokyo Game Show 2026）網上發表會公開龐大遊 […]",
+      "title": "ChatGPT 登陸 Microsoft Word 側邊欄 免費用戶都可用 AI 改文校對",
+      "link": "https://unwire.hk/2026/09/19/chatgpt-word-sidebar-ai-draft/ai/?utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-word-sidebar-ai-draft",
+      "pubDate": "2026-09-19 09:00:22",
+      "description": "OpenAI 宣布 ChatGPT 現正式支援 Microsoft Word，用戶 […]",
       "source": "unwire.hk"
     }
   ],
   "scam": [
     {
-      "title": "檢視兒童使用社交媒體風險",
-      "link": "https://www.news.gov.hk/chi/2026/09/20260918/20260918_165116_747.html",
-      "pubDate": "2026-09-17 16:00:00",
-      "description": "（可按這裏收看整個記者會整段附有手語翻譯的影片。）\n \n律政司司長林定國表示，律政司轄下的工作小組會成立專責小組，檢視兒童使用社交媒體的風險，並會廣泛參考國家和其他司法管轄區的最新發展和實施經驗，所有建議措施均需結合香港實際情況。\n \n施政報告提出，為實現技術向善、安全可控，政府的人工智能風險治理策略聚焦七方面，包括加強保護未成年使用者。\n \n林定國今日在香港特區第一個五年規劃和施政報告有關人工智能時代、國際創新科技中心的記者會上說，兒童使用社交媒體專責小組會統籌相關政策局和部門檢視未成年人使用社交媒體風險，以及有否需要採取更具針對性的應對方法，包括立法和行政措施。\n \n他指，政府高度關注未成",
-      "source": "政府新聞網-治安"
-    },
-    {
-      "title": "譴責美西方藉黎智英案污衊抹黑",
-      "link": "https://www.news.gov.hk/chi/2026/09/20260917/20260917_183303_926.html",
-      "pubDate": "2026-09-16 16:00:00",
-      "description": "美國國會及行政當局中國委員會內的政客公然與反中亂港分子勾結，就黎智英干犯危害國家安全罪行一案舉行所謂聽證會，並作出失實言論和污衊抹黑，又再次提出所謂法案和制裁，妄圖恫嚇維護國家安全的有關特區人員，特區政府表示強烈反對，予以嚴厲譴責。\n \n特區政府指出，美西方不少國家，包括美國在內，均有其龐大而嚴密的國安法律體系。然而，這些國家及其政客，包括所謂的國會及行政當局中國委員會卻對香港特區維護國家安全的工作指手畫腳，盡顯其偽善和雙重標準。任何借黎智英案炒作詆毀香港特區法治和人權狀況的人，都是歪曲事實、顛倒黑白，其險惡用心昭然若揭，必須嚴厲直斥其非，以正視聽。\n \n特區政府續指，黎智英案與新聞自由完全無",
-      "source": "政府新聞網-治安"
-    },
-    {
-      "title": "AI城市大腦首階段料2028年完成",
-      "link": "https://www.news.gov.hk/chi/2026/09/20260917/20260917_180421_271.html",
-      "pubDate": "2026-09-16 16:00:00",
-      "description": "（可按這裏收看整個記者會的手語翻譯短片。）\n \n香港特區第一個五年規劃和新一份施政報告提出研究和建設「AI城市大腦」綜合城市管理系統，政務司司長陳國基表示，目標在2028年第一季完成首階段系統建設，並在同年第三季優先完成接駁1823與應急相關的系統數據，盡快讓市民和社會見到實際效果。\n \n陳國基今日在五年規劃和施政報告有關統籌發展與安全和「城市大腦」的記者會上說，現時不同政府部門有不同的監察和應變機制，處理各類包括颱風、暴雨、塌樹、山泥傾瀉、水浸、道路阻塞等緊急情況。\n \n他說，當局希望做到讓這些數據互聯互通，更快、更準確地監察和綜合分析，冀及早辨識和預警風險，從而作出更高效的指揮和跨部門調配",
-      "source": "政府新聞網-治安"
-    },
-    {
-      "title": "人工智能發展與治理並重",
-      "link": "https://www.news.gov.hk/chi/2026/09/20260916/20260916_175615_417.html",
-      "pubDate": "2026-09-15 16:00:00",
-      "description": "（可按這裏收看香港特區第一個五年規劃和施政報告記者會整段附有手語翻譯的影片。）\n \n行政長官李家超表示，政府推動人工智能（AI）發展的同時要作風險治理。施政報告列出，AI風險治理策略有七方面，包括打擊利用AI犯罪、加強保護未成年人使用者、研究AI產品導致意外的法律責任等。\n \n李家超今日下午在記者會闡述香港特區第一個五年規劃和施政報告內容時說，政府會牽頭進行AI風險治理，數字政策辦公室會在政府購買任何人工智能產品時，要求產品有嚴格聲明，確保符合政府的要求。如政府落實得好，會將經驗更規範化地分享。\n \n律政司司長林定國在記者會上表示，政府的理念是技術向善、安全可控，意即政府希望確保人工智能技術用",
-      "source": "政府新聞網-治安"
-    },
-    {
-      "title": "建設AI城市大腦提升治理",
-      "link": "https://www.news.gov.hk/chi/2026/09/20260916/20260916_100552_338.html",
-      "pubDate": "2026-09-15 16:00:00",
-      "description": "（可按這裏收看行政長官發表香港特區第一個五年規劃和施政報告整段附有手語翻譯的影片。）\n \n行政長官李家超在施政報告提出提升香港的城市治理，強化防災減災救災能力，包括建設「AI城市大腦」綜合城市管理系統，連結和綜合政府工務、環境、交通、應急等城市治理部門相關大數據，構建多向賦能的數據共享環境，使部門掌握實時資訊，提升日常城市管理和處理突發事件的能力。\n \n施政報告提出成立「AI城市大腦系統工作組」，研究並推進「AI城市大腦」系統建設。首階段保安局緊急事故監察及支援中心的數碼基建將接入系統，透過人工智能（AI）分析推送風險預警、趨勢預測等信息，加強跨部門應對極端天氣、重大事件、日常公共秩序管理等情",
-      "source": "政府新聞網-治安"
+      "title": "再有市民收到懷疑假冒電器回收詐騙電話　私隱專員公署：已主動調查「BUILT-IN PRO」",
+      "link": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20260919/s00001/1789832190880/%E5%86%8D%E6%9C%89%E5%B8%82%E6%B0%91%E6%94%B6%E5%88%B0%E6%87%B7%E7%96%91%E5%81%87%E5%86%92%E9%9B%BB%E5%99%A8%E5%9B%9E%E6%94%B6%E8%A9%90%E9%A8%99%E9%9B%BB%E8%A9%B1-%E7%A7%81%E9%9A%B1%E5%B0%88%E5%93%A1%E5%85%AC%E7%BD%B2-%E5%B7%B2%E4%B8%BB%E5%8B%95%E8%AA%BF%E6%9F%A5%E3%80%8Cbuilt-in-pro%E3%80%8D",
+      "pubDate": "2026-09-19 15:24:30",
+      "description": "有網民指，早前收到自稱「惠而浦回收部」致電，稱他購買的抽油煙機要回收，對方能說出他的地址、購買分店及付款方法；同時該網民收到電器零售商「BUILT-IN PRO」Whatsapp短訊，提醒消費者小心防騙，令他懷疑是否涉及資料外泄。本報向個人資料私隱專員公署查詢，公署稱，已就事件主動向「BUILT-IN PRO」展開調查。",
+      "source": "明報即時港聞"
     }
   ],
-  "scam_is_fallback": true,
+  "scam_is_fallback": false,
   "unwire_count": 5,
-  "scam_count": 5
+  "scam_count": 1
 }
