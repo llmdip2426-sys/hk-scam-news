@@ -1,52 +1,80 @@
 {
-  "updated_at": "2026-09-20 06:11:30",
+  "updated_at": "2026-09-21 06:11:18",
   "unwire": [
     {
-      "title": "東京街頭現「人形機械人救護車」 壞機即場換走維持服務",
-      "link": "https://unwire.hk/2026/09/19/gmo-humanoid-robot-ambulance/life-tech/?utm_source=rss&utm_medium=rss&utm_campaign=gmo-humanoid-robot-ambulance",
-      "pubDate": "2026-09-19 14:00:33",
-      "description": "日本 GMO Internet Group 旗下 GMO AI &amp; Robotics Trading（GMO AIR）9 月 8 日在東京正式發佈日本首創「人形機械人救護車」，一旦旗下人形機械人在工作期間故障，救護車會即時到場，若無法即場修復，更會直接換走壞機，讓服務不致中斷。",
+      "title": "AI 錯誤情報險釀中美衝突　聊天機械人誤指中國船隻藏核武",
+      "link": "https://unwire.hk/2026/09/20/ai-china-ship-war-pentagon/ai/?utm_source=rss&utm_medium=rss&utm_campaign=ai-china-ship-war-pentagon",
+      "pubDate": "2026-09-20 14:00:25",
+      "description": "有外媒引述 4 名知情人士報道，今年春季伊朗戰爭期間，一份由人工智能生成的錯誤情報，幾乎導致美軍向一艘中國船隻採取軍事行動，消息人士形容 AI 情報「完全失實」但幾乎觸發一場戰爭，任何針對中國船隻的軍事行動，都有可能演變成中美兩國武裝衝突。",
       "source": "unwire.hk"
     },
     {
-      "title": "英皇查理三世罕有召集 AI 峰會　警告技術落入歧途構成「生存威脅」",
-      "link": "https://unwire.hk/2026/09/19/king-charles-ai-existential-threat/ai/?utm_source=rss&utm_medium=rss&utm_campaign=king-charles-ai-existential-threat",
-      "pubDate": "2026-09-19 13:00:06",
-      "description": "英皇查理三世 9 月 17 日在蘇格蘭 Dumfries House 主持一場閉門 AI 峰會，邀請 Nvidia、Google DeepMind、OpenAI 及 Anthropic 高層與會，直言 AI 技術一旦落入錯誤人手中，將構成「生存威脅」，呼籲業界在為時已晚前建立足夠管控手段。",
+      "title": "TGS 2026 揭曉獨立遊戲大賞　日本《顏UFO》橫掃 4 獎全場矚目",
+      "link": "https://unwire.hk/2026/09/20/sown2026-face-ufo-winner/game-channel/?utm_source=rss&utm_medium=rss&utm_campaign=sown2026-face-ufo-winner",
+      "pubDate": "2026-09-20 13:00:39",
+      "description": "日本電腦娛樂協會（CESA）在東京電玩展 2026 舉辦第 19 屆獨立遊戲企劃比賽「SENSE OF WONDER NIGHT 2026」（SOWN 2026），公布最終得獎名單，日本遊戲開發者宮澤卓宏創製的 Switch 2 新作 《顏UFO》 一舉奪得最高榮譽「Audience Award Grand Prix」，同時橫掃最佳實驗遊戲獎、最佳遊戲設計獎及最佳簡報獎共 4 個獎項，成為今屆比賽最大贏家。",
       "source": "unwire.hk"
     },
     {
-      "title": "AI 假歌混入真人歌手專頁　分發漏洞波及多個串流平台",
-      "link": "https://unwire.hk/2026/09/19/ai-song-scam/mobile-music/?utm_source=rss&utm_medium=rss&utm_campaign=ai-song-scam",
-      "pubDate": "2026-09-19 12:00:06",
-      "description": "不法使用者正利用生成式 AI 製作歌曲，再冒充現有藝人透過數碼音樂分發商提交作品，令假歌出現在 Spotify、Apple Music、Tidal、Amazon Music 及 Deezer 正式藝人專頁，有外媒親自重現相關流程，證明上載者毋須盜取藝人帳戶，只需作出虛假權利聲明便可能繞過現有核查程序。",
+      "title": "《Persona 4 Revival》TGS 2026 新預告　名偵探白鐘直斗由朴璐美回歸聲演",
+      "link": "https://unwire.hk/2026/09/20/p4revival-naoto-tgs2026/game-channel/?utm_source=rss&utm_medium=rss&utm_campaign=p4revival-naoto-tgs2026",
+      "pubDate": "2026-09-20 12:00:16",
+      "description": "Atlus 在 Xbox Tokyo Game Show 2026 直播公開 《Persona 4 Revival》 最新角色預告，介紹加入特別搜查隊的女扮男裝少年偵探白鐘直斗，讓玩家提前認識這位將與主角鳴上悠並肩解謎的伙伴，Atlus 同步推出日文版及英文版預告，方便海外玩家掌握角色魅力。",
       "source": "unwire.hk"
     },
     {
-      "title": "Anthropic 設實體生物實驗室　探索 Claude 操控機械人做研究",
-      "link": "https://unwire.hk/2026/09/19/anthropic-biology-lab-claude-robotics/ai/?utm_source=rss&utm_medium=rss&utm_campaign=anthropic-biology-lab-claude-robotics",
-      "pubDate": "2026-09-19 11:00:39",
-      "description": "Anthropic 已在三藩市灣區設立實體生物實驗室，讓公司進行電腦分析以外的生物實驗，並探索使用 Claude 指揮機械人操作科研儀器，公司表示實驗室自動化仍處早期階段，現時需要專家監督安全，亦未有進行任何人體臨床試驗。",
+      "title": "1:1「洛克炮」現身 TGS 2026　大阪職人工藝重現「究極之藍」",
+      "link": "https://unwire.hk/2026/09/20/rockbuster-tgs2026-capcom/game-channel/?utm_source=rss&utm_medium=rss&utm_campaign=rockbuster-tgs2026-capcom",
+      "pubDate": "2026-09-20 11:00:22",
+      "description": "大阪跨界活動 FactorISM 聯手 Capcom，在 Tokyo Game Show 2026 Capcom 展位特別展出全球獨一無二的 1:1 比例洛克炮模型，由整塊鋁材以 1 微米級精度削製而成，呈現職人多年鑽研出的「究極之藍」電鍛色澱效果，展覽由 2026 年 9 月 17 日至 9 月 21 日在幕張展覽館舉行，是 Capcom 知識產權與地方製造業聯乘的象徵作品。",
       "source": "unwire.hk"
     },
     {
-      "title": "ChatGPT 登陸 Microsoft Word 側邊欄 免費用戶都可用 AI 改文校對",
-      "link": "https://unwire.hk/2026/09/19/chatgpt-word-sidebar-ai-draft/ai/?utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-word-sidebar-ai-draft",
-      "pubDate": "2026-09-19 09:00:22",
-      "description": "OpenAI 宣布 ChatGPT 現正式支援 Microsoft Word，用戶 […]",
+      "title": "化身精子闖生殖系統大冒險 動作遊戲《Become》TGS 摘 SI80 金獎",
+      "link": "https://unwire.hk/2026/09/20/become-tgs2026-sperm-game/game-channel/?utm_source=rss&utm_medium=rss&utm_campaign=become-tgs2026-sperm-game",
+      "pubDate": "2026-09-20 09:40:27",
+      "description": "捷克獨立遊戲開發者 Valentin Wirth 製作動作冒險遊戲《Become》，近日於東京電 […]",
       "source": "unwire.hk"
     }
   ],
   "scam": [
     {
-      "title": "再有市民收到懷疑假冒電器回收詐騙電話　私隱專員公署：已主動調查「BUILT-IN PRO」",
-      "link": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20260919/s00001/1789832190880/%E5%86%8D%E6%9C%89%E5%B8%82%E6%B0%91%E6%94%B6%E5%88%B0%E6%87%B7%E7%96%91%E5%81%87%E5%86%92%E9%9B%BB%E5%99%A8%E5%9B%9E%E6%94%B6%E8%A9%90%E9%A8%99%E9%9B%BB%E8%A9%B1-%E7%A7%81%E9%9A%B1%E5%B0%88%E5%93%A1%E5%85%AC%E7%BD%B2-%E5%B7%B2%E4%B8%BB%E5%8B%95%E8%AA%BF%E6%9F%A5%E3%80%8Cbuilt-in-pro%E3%80%8D",
-      "pubDate": "2026-09-19 15:24:30",
-      "description": "有網民指，早前收到自稱「惠而浦回收部」致電，稱他購買的抽油煙機要回收，對方能說出他的地址、購買分店及付款方法；同時該網民收到電器零售商「BUILT-IN PRO」Whatsapp短訊，提醒消費者小心防騙，令他懷疑是否涉及資料外泄。本報向個人資料私隱專員公署查詢，公署稱，已就事件主動向「BUILT-IN PRO」展開調查。",
-      "source": "明報即時港聞"
+      "title": "統計處籲提防偽冒人口普查網址",
+      "link": "https://www.news.gov.hk/chi/2026/09/20260920/20260920_101949_420.html",
+      "pubDate": "2026-09-19 16:00:00",
+      "description": "政府統計處今日呼籲市民提防偽冒統計處2026年人口普查網站的虛假網址https://eservioe-twwngs[.]xyz，以及冒認由統計處發出的電郵或短信，要求收件人透過附有的超連結連接到上述網址，提供個人資料。\n \n統計處與上述虛假網址、短信和電郵沒有任何關係，並已把事件交由警方跟進。任何市民若曾向該網址提供資料，應聯絡警方。\n \n統計處提醒市民，該處就人口普查致電或發送文字短信給香港境內的住戶時，會顯示來電號碼18 2026或短信發送人名稱「#C&amp;SD」。統計處不會要求受訪者在來電、電郵或文字短信提交密碼，也不會在電郵或文字短信內載有網站連結，除非是應受訪者的要求。\n \n人口",
+      "source": "政府新聞網-治安"
+    },
+    {
+      "title": "大灣區律師執業考試順利舉行",
+      "link": "https://www.news.gov.hk/chi/2026/09/20260919/20260919_210601_516.html",
+      "pubDate": "2026-09-18 16:00:00",
+      "description": "2026年粵港澳大灣區律師執業考試今日順利舉行。律政司司長林定國鼓勵尚未報考大灣區考試的香港法律執業者，早日加入大灣區律師的專業團隊。\n \n林定國表示，香港特區第一個五年規劃提出更善用「一國兩制」下香港實行普通法的獨特優勢，深化香港作為國際法律及解決爭議服務中心，強化粵港澳大灣區法治保障方面的規則銜接、機制對接，以及鼓勵更多香港法律人才參加大灣區考試，在大灣區其他城市執業。\n \n隨着經修訂的《中華人民共和國律師法》本月1日起施行，為大灣區律師制度常態化開展相關工作提供法律依據，林定國期望已取得大灣區律師執業資格的香港法律執業者善用具備雙重執業資格的優勢，積極融入和服務國家發展大局。",
+      "source": "政府新聞網-治安"
+    },
+    {
+      "title": "制服團隊領袖論壇年度匯報舉行",
+      "link": "https://www.news.gov.hk/chi/2026/09/20260919/20260919_161358_599.html",
+      "pubDate": "2026-09-18 16:00:00",
+      "description": "保安局青少年制服團隊領袖論壇今日舉行年度匯報，港深澳三地青少年成員回顧過去一年的體驗和暑期實習成果、圍繞大灣區不同專題作匯報，並與新一屆成員展望來年發展方向。\n \n政務司副司長卓永興致辭時表示，特區政府高度重視青年發展。香港特區第一個五年規劃指出，要構建多元交流實踐平台，擴闊青年視野，以青年發展藍圖為基礎，為青年成長、成才創造更廣闊平台和更多機會，培育青年成為愛國愛港、具備世界視野、有抱負和具正向思維的新一代。\n \n卓永興說，領袖論壇是特區政府落實有關願景的重要平台。過去一年，領袖論壇舉辦逾30項精彩活動，涵蓋國家安全、愛國教育、前沿科技及多元文化。成員也參與第15屆全國運動會等國家盛事，充分",
+      "source": "政府新聞網-治安"
+    },
+    {
+      "title": "檢視兒童使用社交媒體風險",
+      "link": "https://www.news.gov.hk/chi/2026/09/20260918/20260918_165116_747.html",
+      "pubDate": "2026-09-17 16:00:00",
+      "description": "（可按這裏收看整個記者會整段附有手語翻譯的影片。）\n \n律政司司長林定國表示，律政司轄下的工作小組會成立專責小組，檢視兒童使用社交媒體的風險，並會廣泛參考國家和其他司法管轄區的最新發展和實施經驗，所有建議措施均需結合香港實際情況。\n \n施政報告提出，為實現技術向善、安全可控，政府的人工智能風險治理策略聚焦七方面，包括加強保護未成年使用者。\n \n林定國今日在香港特區第一個五年規劃和施政報告有關人工智能時代、國際創新科技中心的記者會上說，兒童使用社交媒體專責小組會統籌相關政策局和部門檢視未成年人使用社交媒體風險，以及有否需要採取更具針對性的應對方法，包括立法和行政措施。\n \n他指，政府高度關注未成",
+      "source": "政府新聞網-治安"
+    },
+    {
+      "title": "譴責美西方藉黎智英案污衊抹黑",
+      "link": "https://www.news.gov.hk/chi/2026/09/20260917/20260917_183303_926.html",
+      "pubDate": "2026-09-16 16:00:00",
+      "description": "美國國會及行政當局中國委員會內的政客公然與反中亂港分子勾結，就黎智英干犯危害國家安全罪行一案舉行所謂聽證會，並作出失實言論和污衊抹黑，又再次提出所謂法案和制裁，妄圖恫嚇維護國家安全的有關特區人員，特區政府表示強烈反對，予以嚴厲譴責。\n \n特區政府指出，美西方不少國家，包括美國在內，均有其龐大而嚴密的國安法律體系。然而，這些國家及其政客，包括所謂的國會及行政當局中國委員會卻對香港特區維護國家安全的工作指手畫腳，盡顯其偽善和雙重標準。任何借黎智英案炒作詆毀香港特區法治和人權狀況的人，都是歪曲事實、顛倒黑白，其險惡用心昭然若揭，必須嚴厲直斥其非，以正視聽。\n \n特區政府續指，黎智英案與新聞自由完全無",
+      "source": "政府新聞網-治安"
     }
   ],
-  "scam_is_fallback": false,
+  "scam_is_fallback": true,
   "unwire_count": 5,
-  "scam_count": 1
+  "scam_count": 5
 }
