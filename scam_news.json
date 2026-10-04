@@ -1,49 +1,49 @@
 {
-  "updated_at": "2026-10-03 06:12:17",
+  "updated_at": "2026-10-04 10:52:20",
   "unwire": [
     {
-      "title": "教學：Meta Muse「小龍蝦」超實用範例   WhatsApp 叫 AI 操作電腦、AI 自己搵料出 Threads 帖文",
-      "link": "https://unwire.hk/2026/10/02/meta-muse/ai/?utm_source=rss&utm_medium=rss&utm_campaign=meta-muse",
-      "pubDate": "2026-10-02 14:17:46",
-      "description": "近年 AI 發展迅速，已經不再只局限於屏幕上的「你問我答」，而是正式進化成能夠真正替你動手做事的 […]",
+      "title": "Apple 傳開發智能家居鏡頭　只提供文字描述不錄影片",
+      "link": "https://unwire.hk/2026/10/03/apple-j450-smart-home-camera/life-tech/?utm_source=rss&utm_medium=rss&utm_campaign=apple-j450-smart-home-camera",
+      "pubDate": "2026-10-03 14:00:40",
+      "description": "Bloomberg 記者 Mark Gurman 在 Power On podcast 透露，Apple 正開發代號 J450 的智能家居保安鏡頭，只向用戶提供事件的文字描述，不錄製影片，這款鏡頭屬於「全新 Apple 智能家居生態系統」，並與傳聞中的智能家居顯示屏 J490 配合。",
       "source": "unwire.hk"
     },
     {
-      "title": "地圖上睇香港港鐵,巴士位置   港人用 AI 製作免費開源   香港智慧城市交通情報網",
-      "link": "https://unwire.hk/2026/10/02/hk-smart-city-traffic-open-source/fun-tech/?utm_source=rss&utm_medium=rss&utm_campaign=hk-smart-city-traffic-open-source",
-      "pubDate": "2026-10-02 09:50:04",
-      "description": "香港 AI 專家李勁華近日在自家 Facebook 帳戶公開以 AI 工具製作及免費開源的「香港 […]",
+      "title": "台積電研究在德州興建晶圓廠園區　單廠投資至少 200 億美元遠超歐盟",
+      "link": "https://unwire.hk/2026/10/03/tsmc-texas-campus-europe-gap/ai/?utm_source=rss&utm_medium=rss&utm_campaign=tsmc-texas-campus-europe-gap",
+      "pubDate": "2026-10-03 13:00:30",
+      "description": "台積電正考慮在德州興建新園區，生產更多 AI 晶片，每座晶圓廠投資至少 200 億美元（約港幣 1,560 億元），台積電在歐洲唯一的項目是德累斯頓合資晶圓廠，總投資 100 億歐元以上（約港幣 848 億元），而且不生產 AI 晶片。",
       "source": "unwire.hk"
     },
     {
-      "title": "台灣中興大學研AI體感智慧衣 靠靜電感應動作 揮拳踢腿免手掣玩《街頭霸王》",
-      "link": "https://unwire.hk/2026/10/02/nchu-ai-smart-clothing-static-sensing/fun-tech/?utm_source=rss&utm_medium=rss&utm_campaign=nchu-ai-smart-clothing-static-sensing",
-      "pubDate": "2026-10-02 08:07:11",
-      "description": "中興大學材料科學與工程學系研發「AI 體感智慧衣」，利用人體活動產生的靜電感測動作，讓用戶毋須控制器及鍵盤，揮 […]",
+      "title": "Home Assistant「去雲端化」　付費服務改名為 Home Assistant Link",
+      "link": "https://unwire.hk/2026/10/03/home-assistant-cloud-renamed-link/life-tech/?utm_source=rss&utm_medium=rss&utm_campaign=home-assistant-cloud-renamed-link",
+      "pubDate": "2026-10-03 12:00:30",
+      "description": "開源智能家居平台 Home Assistant 宣布，將付費服務 Home Assistant Cloud 改名為 Home Assistant Link，創辦人 Paulus Schoutsen 表示，科技巨企毀了雲端這個概念，所以決定放棄這個名稱，服務功能維持不變，月費 6.5 美元（約港幣 HK$50.7）。",
       "source": "unwire.hk"
     },
     {
-      "title": "Meta 前高層狠批 Claude 老闆「瘋了」  批 AI 毀滅論純屬妄想 漏洞全因沙盒設計太差",
-      "link": "https://unwire.hk/2026/10/02/lecun-slams-anthropic-amodei/fun-tech/?utm_source=rss&utm_medium=rss&utm_campaign=lecun-slams-anthropic-amodei",
-      "pubDate": "2026-10-02 07:38:29",
-      "description": "圖靈獎得主楊立昆（Yann LeCun）離開 Meta 後自行創業，日前接受《財星》（Fortune）專訪，公 […]",
+      "title": "iPhone Duo 內屏覆蓋層可更換　如加入 AppleCare+ 只收費 19 美元",
+      "link": "https://unwire.hk/2026/10/03/iphone-duo-replaceable-cover-layer-2/mobile-phone/?utm_source=rss&utm_medium=rss&utm_campaign=iphone-duo-replaceable-cover-layer-2",
+      "pubDate": "2026-10-03 11:00:10",
+      "description": "Apple 硬件工程副總裁 Kate Bergeron 透露，iPhone Duo 摺疊內屏上的 nano-texture 覆蓋層可以撕除並更換，美國用戶購買 AppleCare+ 後，更換費用為 19 美元（約港幣 HK$148），無 AppleCare+ 保障的收費則未公布。",
       "source": "unwire.hk"
     },
     {
-      "title": "搭車最怕遇手機噪音 江玉歡促參考新加坡派便衣執法  倡即時開告票嚴打噪音",
-      "link": "https://unwire.hk/2026/10/02/hk-bus-noise-enforcement-singapore/mobile-phone/?utm_source=rss&utm_medium=rss&utm_campaign=hk-bus-noise-enforcement-singapore",
-      "pubDate": "2026-10-02 07:19:00",
-      "description": "有傳媒報道，立法會前議員江玉歡認為，香港車廂噪音問題源於欠缺執法，建議參考新加坡安排督察巡視，甚至以便衣方式登 […]",
+      "title": "一句說話就可製作出 Game Boy 遊戲   OpenAI Codex 外掛支援 GB Color 掌機",
+      "link": "https://unwire.hk/2026/10/03/openai-modretro-codex-game-boy-plugin/ai/?utm_source=rss&utm_medium=rss&utm_campaign=openai-modretro-codex-game-boy-plugin",
+      "pubDate": "2026-10-03 09:23:59",
+      "description": "OpenAI 在 9 月 29 日 DevDay 2026 宣布與復古掌機品牌 ModRetro […]",
       "source": "unwire.hk"
     }
   ],
   "scam": [
     {
-      "title": "首8個月近3萬宗詐騙案　假冒客服誘騙下載程式令手機變讀卡機",
-      "link": "https://news.rthk.hk/rthk/ch/component/k2/1872489-20261003.htm",
-      "pubDate": "2026-10-02 16:12:36",
-      "description": "警方表示，今年1至8月，本港共錄得29670宗詐騙案，較去年同期上升4.5%，損失金額52.1億元，增加3.8%。當中假冒客服騙案佔超過5000宗，涉案金額近7億元。\r\n\r\n警方又發現近期有新的假冒客服手法，包括要求下載惡意程式，手機變「讀卡機」。騙徒假冒客服，誘使受害人到偽冒銀行網站提交個人資料，並以偽造批核文件博取信任，再以退款為由，要求安裝惡意應用程式、開啟手機NFC功能及將信用卡貼近手機背面，實際盜用信用卡簽帳。\r\n\r\n另一種新型騙案手法是假驗證、真盜款。騙徒假冒客服，以驗證銀行帳戶為由，要求受害人視像通話，指示將指定帳戶登記為新收款人，再要求將假冒網站提供的「驗證碼」輸入相應位置，實",
-      "source": "RTHK本地"
+      "title": "取代現有進階對話私隱　WhatsApp 擬推出受限聊天室功能",
+      "link": "https://hk.news.yahoo.com/%E5%8F%96%E4%BB%A3%E7%8F%BE%E6%9C%89%E9%80%B2%E9%9A%8E%E5%B0%8D%E8%A9%B1%E7%A7%81%E9%9A%B1-whatsapp-%E6%93%AC%E6%8E%A8%E5%87%BA%E5%8F%97%E9%99%90%E8%81%8A%E5%A4%A9%E5%AE%A4%E5%8A%9F%E8%83%BD-003049816.html",
+      "pubDate": "2026-10-04 00:30:49",
+      "description": "去年四月，Meta 公布 WhatsApp 推出「進階對話私隱」功能，能防止他人將 WhatsApp 對話內容... 這篇文章 取代現有進階對話私隱 WhatsApp 擬推出受限聊天室功能 最早出現於 PC3 Magazine。",
+      "source": "Yahoo香港"
     },
     {
       "title": "國安處再拘兩人 涉太子站外煽動",
