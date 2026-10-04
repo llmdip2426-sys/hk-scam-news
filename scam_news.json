@@ -1,49 +1,49 @@
 {
-  "updated_at": "2026-10-04 10:52:20",
+  "updated_at": "2026-10-05 06:12:27",
   "unwire": [
     {
-      "title": "Apple 傳開發智能家居鏡頭　只提供文字描述不錄影片",
-      "link": "https://unwire.hk/2026/10/03/apple-j450-smart-home-camera/life-tech/?utm_source=rss&utm_medium=rss&utm_campaign=apple-j450-smart-home-camera",
-      "pubDate": "2026-10-03 14:00:40",
-      "description": "Bloomberg 記者 Mark Gurman 在 Power On podcast 透露，Apple 正開發代號 J450 的智能家居保安鏡頭，只向用戶提供事件的文字描述，不錄製影片，這款鏡頭屬於「全新 Apple 智能家居生態系統」，並與傳聞中的智能家居顯示屏 J490 配合。",
+      "title": "OpenAI 安全報告負責人辭職 批評公司文化已經崩壞",
+      "link": "https://unwire.hk/2026/10/04/openai-safety-employee-resigns-culture/ai/?utm_source=rss&utm_medium=rss&utm_campaign=openai-safety-employee-resigns-culture",
+      "pubDate": "2026-10-04 14:18:16",
+      "description": "曾主導撰寫 OpenAI 主要產品安全報告 David Robinson 宣布辭職，並在 The Atlant […]",
       "source": "unwire.hk"
     },
     {
-      "title": "台積電研究在德州興建晶圓廠園區　單廠投資至少 200 億美元遠超歐盟",
-      "link": "https://unwire.hk/2026/10/03/tsmc-texas-campus-europe-gap/ai/?utm_source=rss&utm_medium=rss&utm_campaign=tsmc-texas-campus-europe-gap",
-      "pubDate": "2026-10-03 13:00:30",
-      "description": "台積電正考慮在德州興建新園區，生產更多 AI 晶片，每座晶圓廠投資至少 200 億美元（約港幣 1,560 億元），台積電在歐洲唯一的項目是德累斯頓合資晶圓廠，總投資 100 億歐元以上（約港幣 848 億元），而且不生產 AI 晶片。",
+      "title": "Micron 預告記憶體明後年更搶手　季度收入近 5 倍創新高",
+      "link": "https://unwire.hk/2026/10/04/micron-record-quarter-memory-shortage/ai/?utm_source=rss&utm_medium=rss&utm_campaign=micron-record-quarter-memory-shortage",
+      "pubDate": "2026-10-04 14:00:08",
+      "description": "Micron 預期全球記憶體供應短缺未來 2 年會加劇，這間美國晶片商上星期三公布截至 9 月 3 日的第四財季收入 542.3 億美元（約港幣 4,229.9 億元），較去年同期增長近 5 倍，並高於分析師預期。",
       "source": "unwire.hk"
     },
     {
-      "title": "Home Assistant「去雲端化」　付費服務改名為 Home Assistant Link",
-      "link": "https://unwire.hk/2026/10/03/home-assistant-cloud-renamed-link/life-tech/?utm_source=rss&utm_medium=rss&utm_campaign=home-assistant-cloud-renamed-link",
-      "pubDate": "2026-10-03 12:00:30",
-      "description": "開源智能家居平台 Home Assistant 宣布，將付費服務 Home Assistant Cloud 改名為 Home Assistant Link，創辦人 Paulus Schoutsen 表示，科技巨企毀了雲端這個概念，所以決定放棄這個名稱，服務功能維持不變，月費 6.5 美元（約港幣 HK$50.7）。",
+      "title": "教宗籲區分人類藝術與 AI 生成物　斥演算法生成缺乏人類靈光",
+      "link": "https://unwire.hk/2026/10/04/pope-leo-ai-art-eu-labels/ai/?utm_source=rss&utm_medium=rss&utm_campaign=pope-leo-ai-art-eu-labels",
+      "pubDate": "2026-10-04 13:00:52",
+      "description": "教宗良十四世上星期五在梵蒂岡向藝術家表示，藝術與機器生成內容存在本質分別，歐盟《人工智能法》 8 月起就要求 AI 內容加上機器可讀標記，但藝術和諷刺作品的披露要求最寬鬆。",
       "source": "unwire.hk"
     },
     {
-      "title": "iPhone Duo 內屏覆蓋層可更換　如加入 AppleCare+ 只收費 19 美元",
-      "link": "https://unwire.hk/2026/10/03/iphone-duo-replaceable-cover-layer-2/mobile-phone/?utm_source=rss&utm_medium=rss&utm_campaign=iphone-duo-replaceable-cover-layer-2",
-      "pubDate": "2026-10-03 11:00:10",
-      "description": "Apple 硬件工程副總裁 Kate Bergeron 透露，iPhone Duo 摺疊內屏上的 nano-texture 覆蓋層可以撕除並更換，美國用戶購買 AppleCare+ 後，更換費用為 19 美元（約港幣 HK$148），無 AppleCare+ 保障的收費則未公布。",
+      "title": "Tesla 推出緊急脫離充電站功能　愛達荷州槍擊案發生後 2 個月面世",
+      "link": "https://unwire.hk/2026/10/04/tesla-emergency-drive-away-supercharger/life-tech/auto/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-emergency-drive-away-supercharger",
+      "pubDate": "2026-10-04 12:00:37",
+      "description": "愛達荷州 Twin Falls 一宗 Supercharger 站槍擊案 2 個月後，Tesla 終於推出 Emergency Drive Away 功能，讓車主在緊急情況下，即使車輛仍連接 Supercharger 也能駛離，同時警告使用該功能會損毀車輛和充電站，使用的話可能需要賠償維修費用。",
       "source": "unwire.hk"
     },
     {
-      "title": "一句說話就可製作出 Game Boy 遊戲   OpenAI Codex 外掛支援 GB Color 掌機",
-      "link": "https://unwire.hk/2026/10/03/openai-modretro-codex-game-boy-plugin/ai/?utm_source=rss&utm_medium=rss&utm_campaign=openai-modretro-codex-game-boy-plugin",
-      "pubDate": "2026-10-03 09:23:59",
-      "description": "OpenAI 在 9 月 29 日 DevDay 2026 宣布與復古掌機品牌 ModRetro […]",
+      "title": "AI 破解拿破崙時代密函　GPT-6 Astra 6 小時還原奧地利開戰前軍情簡報",
+      "link": "https://unwire.hk/2026/10/04/ai-decodes-napoleon-cipher-letter/ai/?utm_source=rss&utm_medium=rss&utm_campaign=ai-decodes-napoleon-cipher-letter",
+      "pubDate": "2026-10-04 11:00:58",
+      "description": "SentinelOne 的 AI 工程師 Carter Church 使用 OpenAI 的 GPT-6 Astra，花約 6 小時解讀一封寫於 1809 年的加密信件，令這封 217 年來無人公開解讀的密函重見天日，信件由拿破崙的繼子、意大利副王 Eugène de Beauharnais 發給將軍 Auguste de Marmont，內容是法國與奧地利開戰前夕的兵力部署。",
       "source": "unwire.hk"
     }
   ],
   "scam": [
     {
-      "title": "取代現有進階對話私隱　WhatsApp 擬推出受限聊天室功能",
-      "link": "https://hk.news.yahoo.com/%E5%8F%96%E4%BB%A3%E7%8F%BE%E6%9C%89%E9%80%B2%E9%9A%8E%E5%B0%8D%E8%A9%B1%E7%A7%81%E9%9A%B1-whatsapp-%E6%93%AC%E6%8E%A8%E5%87%BA%E5%8F%97%E9%99%90%E8%81%8A%E5%A4%A9%E5%AE%A4%E5%8A%9F%E8%83%BD-003049816.html",
-      "pubDate": "2026-10-04 00:30:49",
-      "description": "去年四月，Meta 公布 WhatsApp 推出「進階對話私隱」功能，能防止他人將 WhatsApp 對話內容... 這篇文章 取代現有進階對話私隱 WhatsApp 擬推出受限聊天室功能 最早出現於 PC3 Magazine。",
-      "source": "Yahoo香港"
+      "title": "皇崗口岸社區體驗日舉行",
+      "link": "https://www.news.gov.hk/chi/2026/10/20261004/20261004_165916_753.html",
+      "pubDate": "2026-10-03 16:00:00",
+      "description": "重建後的皇崗口岸開通在即，保安局今日舉辦社區體驗日，逾1,500名市民獲邀參觀皇崗口岸聯檢大樓港方口岸區，率先體驗往來口岸的公共運輸服務和聯檢大樓內的設施，了解「合作查驗、一次放行」的嶄新通關模式，以及聯檢大樓的建築設計特色。\n \n參加者從各區指定地點乘搭專營巴士或跨境巴士前往皇崗口岸港方口岸區，並由消防處和懲教署人員擔任導賞員，分組參觀聯檢大樓。\n \n他們先抵達聯檢大樓的公共運輸交匯處，了解往來口岸的公共交通安排。其後，他們參觀聯檢大樓，了解大樓的室內設計亮點，並體驗免費政府Wi-Fi等便民設施。參加者隨後乘搭扶手電梯前往五樓離境大堂，由入境事務處人員介紹合作查驗自助通道的運作，以期讓他們進",
+      "source": "政府新聞網-治安"
     },
     {
       "title": "國安處再拘兩人 涉太子站外煽動",
@@ -74,7 +74,7 @@
       "source": "政府新聞網-治安"
     }
   ],
-  "scam_is_fallback": false,
+  "scam_is_fallback": true,
   "unwire_count": 5,
   "scam_count": 5
 }
