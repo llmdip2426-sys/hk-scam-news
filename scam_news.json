@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-10-08 06:11:38",
+  "updated_at": "2026-10-09 06:13:10",
   "unwire": [
     {
-      "title": "Surface Laptop Ultra 下週開售  入場價 HK$20,400 起  成 MacBook Pro 最大對手",
-      "link": "https://unwire.hk/2026/10/08/surface-laptop-ultra-rtx-spark-price/notebook/?utm_source=rss&utm_medium=rss&utm_campaign=surface-laptop-ultra-rtx-spark-price",
-      "pubDate": "2026-10-07 18:14:23",
-      "description": "Microsoft 宣布，搭載 Nvidia RTX Spark 晶片的 Surface Laptop Ult […]",
+      "title": "美國暫停 Microsoft、Adobe 等 8 企綠卡申請程序　Vance 指裁員 6,000 人仍獲批大量 H-1B",
+      "link": "https://unwire.hk/2026/10/09/microsoft-adobe-perm-green-card-suspension/unwire-space/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-adobe-perm-green-card-suspension",
+      "pubDate": "2026-10-08 17:08:23",
+      "description": "特朗普政府於 10 月 8 日宣布，暫停 Microsoft、Adobe 及另外 6 間大型 IT 服務企業參 […]",
       "source": "unwire.hk"
     },
     {
-      "title": "Surface RTX Spark Dev Box  微軟 AI 盒子開放預訂 售價約 HK$46,800、11 月出貨",
-      "link": "https://unwire.hk/2026/10/08/surface-rtx-spark-dev-box-preorder-price/ai/?utm_source=rss&utm_medium=rss&utm_campaign=surface-rtx-spark-dev-box-preorder-price",
-      "pubDate": "2026-10-07 18:05:11",
-      "description": "據 The Verge 報道，Microsoft 已開放預訂 Surface RTX Spark […]",
+      "title": "美國男用 AI 作曲再用 AI 刷流量    用機械人騙版稅 6300 萬元　終被逮捕判囚 18 個月",
+      "link": "https://unwire.hk/2026/10/08/ai-music-streaming-fraud-prison/ai/?utm_source=rss&utm_medium=rss&utm_campaign=ai-music-streaming-fraud-prison",
+      "pubDate": "2026-10-08 11:54:47",
+      "description": "美國紐約南區聯邦法院於 2026 年 10 月 6 日，判處 54 歲男子 Michael Smith 入獄  […]",
       "source": "unwire.hk"
     },
     {
-      "title": "Google 全球開放 SynthID Detector 可驗證 Google、OpenAI 等 AI 相片、影片及聲音 Apple 即將加入",
-      "link": "https://unwire.hk/2026/10/07/synthid-detector-global-openai-nvidia-apple/ai/?utm_source=rss&utm_medium=rss&utm_campaign=synthid-detector-global-openai-nvidia-apple",
-      "pubDate": "2026-10-07 15:15:55",
-      "description": "Google 於 10 月 7 日宣布，AI 水印偵測工具 SynthID Detector 正式向全球所有人 […]",
+      "title": "教學：電腦 USB 駁 iPhone 跑本地 AI    讀取長文速度可加快",
+      "link": "https://unwire.hk/2026/10/08/iphone-mac-backburner-local-ai-setup-guide/ai/?utm_source=rss&utm_medium=rss&utm_campaign=iphone-mac-backburner-local-ai-setup-guide",
+      "pubDate": "2026-10-08 10:56:35",
+      "description": "平時用 USB C 線將 iPhone 連上 Mac，多數是充電或傳相，現在竟可讓手機幫電腦跑 AI。開源工具 […]",
       "source": "unwire.hk"
     },
     {
-      "title": "電動的士資助計劃  40%獲邀車主拒參與或無回覆   謝展寰: 受經濟影響換車更審慎",
-      "link": "https://unwire.hk/2026/10/07/e-taxi-subsidy-scheme-response/life-tech/smartcity/?utm_source=rss&utm_medium=rss&utm_campaign=e-taxi-subsidy-scheme-response",
-      "pubDate": "2026-10-07 11:58:48",
-      "description": "政府於 2024 年 12 月推出電動的士資助計劃，每輛資助 45,000 元，目標資助業界購買 3,000  […]",
+      "title": "搭的士掃車內二維碼付款  司機: 是廣告要乘客再付錢   網民: 茶餐廳貼第二個人嘅code得唔得?",
+      "link": "https://unwire.hk/2026/10/08/taxi-qr-code-payment-confusion/life-tech/smartcity/?utm_source=rss&utm_medium=rss&utm_campaign=taxi-qr-code-payment-confusion",
+      "pubDate": "2026-10-08 10:34:04",
+      "description": "有乘客在 Threads 分享乘搭的士經歷，表示掃描前座椅背張貼 QR Code 付款後，司機卻 […]",
       "source": "unwire.hk"
     },
     {
-      "title": "Google 超輕量本地 AI 模型    EmbeddingGemma 2「個人專屬大腦」  離線也能精準搜尋網頁資料",
-      "link": "https://unwire.hk/2026/10/07/google-embeddinggemma/ai/?utm_source=rss&utm_medium=rss&utm_campaign=google-embeddinggemma",
-      "pubDate": "2026-10-07 11:41:01",
-      "description": "Google DeepMind 近日發表了專為行動裝置打造的全新端側（On-Device）AI 模型——Emb […]",
+      "title": "專家憂 AI 破解加密技術  30%比特幣或受威脅 逾百萬比特幣恐急需搬遷",
+      "link": "https://unwire.hk/2026/10/08/ai-ecdsa-bitcoin-justin-drake/tech-secure/?utm_source=rss&utm_medium=rss&utm_campaign=ai-ecdsa-bitcoin-justin-drake",
+      "pubDate": "2026-10-08 10:05:26",
+      "description": "以太坊基金會研究員 Justin Drake 在 10 月 7 日發文警告，OpenAI 近期在數學領域取得突 […]",
       "source": "unwire.hk"
     }
   ],
@@ -53,24 +53,24 @@
       "source": "政府新聞網-治安"
     },
     {
+      "title": "國慶黃金周約160萬人次訪港",
+      "link": "https://www.news.gov.hk/chi/2026/10/20261008/20261008_182713_774.html",
+      "pubDate": "2026-10-07 16:00:00",
+      "description": "一連七日的內地國慶黃金周結束，政務司司長陳國基領導的節慶安排跨部門工作小組今日表示，整體訪港旅客數目約160萬人次，其中內地入境旅客超過141萬人次，較去年共八日假期更高。\n \n陳國基指，今年國慶黃金周活動精彩豐富，10月1日舉行的國慶煙花匯演和國慶賽馬日等活動廣受市民和旅客歡迎。同時，政府和社會各界推出多項特別優惠及活動，涵蓋公共交通、文化藝術和消閒、餐飲和消費等範疇，讓市民大眾共慶中華人民共和國成立77周年。\n \n他說，這些活動有效帶動人流和刺激消費，零售業界表示，多個零售類別消費額均有按年單位至雙位增幅，餐飲業界也指遊客區生意額有約一成增長。政府將繼續與業界攜手推廣多元化的旅遊產品與項目",
+      "source": "政府新聞網-治安"
+    },
+    {
+      "title": "國安處拘一男一女",
+      "link": "https://www.news.gov.hk/chi/2026/10/20261008/20261008_143819_285.html",
+      "pubDate": "2026-10-07 16:00:00",
+      "description": "警務處國家安全處本月6日在九龍區拘捕一名38歲男子和一名38歲女子，涉嫌違反《維護國家安全條例》第24條「出於煽動意圖作出一項具煽動意圖的作為」罪。\n \n兩名被捕人士包括一名持牌保險經紀。該名被捕男子涉嫌於不同社交平台營運專頁，發布煽動他人對特區憲制秩序憎恨的帖文，同時藉此銷售保險產品圖利。\n \n警方在行動前取得法庭搜查令，搜查各被捕人的住所並檢取相關證物。\n \n兩名被捕人將獲准保釋候查。",
+      "source": "政府新聞網-治安"
+    },
+    {
       "title": "新皇崗口岸自助通道接受使用登記",
       "link": "https://www.news.gov.hk/chi/2026/10/20261006/20261006_164855_463.html",
       "pubDate": "2026-10-05 16:00:00",
       "description": "重建後的皇崗口岸預計第四季投入服務，會採用嶄新的「合作查驗、一次放行」通關模式。合資格的香港居民即日起可透過入境事務處的「香港e-道」流動應用程式，登記使用合作查驗自助通道。\n \n新皇崗口岸設有134條合作查驗自助通道和68個傳統人工櫃枱。入境處估計，口岸開通初期，每日至少有十萬人次出入境。為提升旅客通關體驗和效率，口岸採用「合作查驗、一次放行」通關模式。\n \n已登記的旅客使用合作查驗自助通道時，只需排隊一次和出示一次證件，便可完成港深兩地出入境手續。整體通關時間會由原來約30分鐘大幅縮減至約五分鐘。\n \n凡年滿七歲或以上並符合資格的香港居民可登記使用合作查驗自助通道。合資格香港居民類別包括持",
-      "source": "政府新聞網-治安"
-    },
-    {
-      "title": "皇崗口岸社區體驗日舉行",
-      "link": "https://www.news.gov.hk/chi/2026/10/20261004/20261004_165916_753.html",
-      "pubDate": "2026-10-03 16:00:00",
-      "description": "重建後的皇崗口岸開通在即，保安局今日舉辦社區體驗日，逾1,500名市民獲邀參觀皇崗口岸聯檢大樓港方口岸區，率先體驗往來口岸的公共運輸服務和聯檢大樓內的設施，了解「合作查驗、一次放行」的嶄新通關模式，以及聯檢大樓的建築設計特色。\n \n參加者從各區指定地點乘搭專營巴士或跨境巴士前往皇崗口岸港方口岸區，並由消防處和懲教署人員擔任導賞員，分組參觀聯檢大樓。\n \n他們先抵達聯檢大樓的公共運輸交匯處，了解往來口岸的公共交通安排。其後，他們參觀聯檢大樓，了解大樓的室內設計亮點，並體驗免費政府Wi-Fi等便民設施。參加者隨後乘搭扶手電梯前往五樓離境大堂，由入境事務處人員介紹合作查驗自助通道的運作，以期讓他們進",
-      "source": "政府新聞網-治安"
-    },
-    {
-      "title": "國安處再拘兩人 涉太子站外煽動",
-      "link": "https://www.news.gov.hk/chi/2026/09/20260930/20260930_224049_742.html",
-      "pubDate": "2026-09-29 16:00:00",
-      "description": "就上月31日晚上有人在港鐵太子站外手持花束站立，叫喊具煽動性口號，警務處國家安全處今日再以涉嫌違反《維護國家安全條例》「出於煽動意圖作出具煽動意圖的作為」罪拘捕一名37歲男子和一名58歲女子。\n \n警方在行動前取得法庭搜查令，搜查被捕人的住所和檢取相關證物。兩人現正被扣留調查，警方的拘捕行動仍然繼續。\n \n國安處高度重視案件，本月3日已經以同一罪名拘捕年齡介乎33歲至79歲的兩男一女，本月27日至28日再以同一罪名拘捕年齡介乎46歲至65歲的另外一男兩女。該六人獲准保釋候查。\n \n警方強調，所謂「831事件」並無事實根據，別有用心的人藉此散播謊言、攻擊特區政府和抹黑警隊，企圖以危害社會安寧的手",
       "source": "政府新聞網-治安"
     }
   ],
