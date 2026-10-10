@@ -1,19 +1,55 @@
 {
-  "updated_at": "2026-10-10 06:13:05",
-  "unwire": [],
-  "scam": [
+  "updated_at": "2026-10-11 06:11:39",
+  "unwire": [
     {
-      "title": "網站冒交通告票平台 稱早繳款有折",
-      "link": "https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/article/20261007/s00001/1791308625499/%E7%B6%B2%E7%AB%99%E5%86%92%E4%BA%A4%E9%80%9A%E5%91%8A%E7%A5%A8%E5%B9%B3%E5%8F%B0-%E7%A8%B1%E6%97%A9%E7%B9%B3%E6%AC%BE%E6%9C%89%E6%8A%98",
-      "pubDate": "2026-10-06 20:30:00",
-      "description": "【明報專訊】警務處發現有網站假冒「電子交通告票平台」，聲稱提早繳交告票罰款可獲折扣優惠，誘騙市民提供信用卡及個人資料。警方強調繳交罰款不設折扣，呼籲市民警覺。",
-      "source": "明報港聞"
+      "title": "記憶體漲價推高升級成本　新款 Intel CPU 延續 DDR4 平台讓用戶保留舊零件",
+      "link": "https://unwire.hk/2026/10/10/intel-new-cpu-ddr4-ram-prices-upgrade-cost/notebook/?utm_source=rss&utm_medium=rss&utm_campaign=intel-new-cpu-ddr4-ram-prices-upgrade-cost",
+      "pubDate": "2026-10-10 15:00:28",
+      "description": "記憶體價格持續上升，升級電腦不只要考慮 CPU 售價，更換主機板及 RAM 開支亦增加，在成本壓力下，Gigabyte 預告 2027 年初推出新款 Intel LGA1700 處理器，並為全線 B760 及 H610 主機板提供 BIOS 支援，涵蓋 DDR4 與 DDR5 版本，讓部分用戶有機會保留現有主機板及記憶體升級。",
+      "source": "unwire.hk"
     },
     {
-      "title": "提防偽冒電子交通告票平台網站",
-      "link": "https://www.news.gov.hk/chi/2026/10/20261006/20261006_154247_059.html",
-      "pubDate": "2026-10-05 16:00:00",
-      "description": "警務處呼籲市民提高警覺，慎防偽冒電子交通告票平台的欺詐網站。有關網站聲稱提早繳交告票罰款可獲折扣優惠，誘騙市民提供信用卡和個人資料。警務處強調，繳交告票罰款不設任何折扣優惠。\n \n警務處電子交通告票平台網址為https://www.etrafficticket.gov.hk。所有電子告票短信只會由警務處發送人名稱，即「#HKPF-eTT」發出，而且絕不會附有任何超連結。\n \n市民若曾向該些偽冒網站提供個人資料，請致電18222聯絡警務處反詐騙協調中心人員。\n \n查詢電子交通告票平台事宜，可致電181 181。",
+      "title": "Claude 向費城警方提交虛假兇殺案線索　Anthropic 暫停內部互聯網連接評估",
+      "link": "https://unwire.hk/2026/10/10/anthropic-claude-false-homicide-tip-philadelphia-police/ai/?utm_source=rss&utm_medium=rss&utm_campaign=anthropic-claude-false-homicide-tip-philadelphia-police",
+      "pubDate": "2026-10-10 14:00:19",
+      "description": "費城警察局於 10 月 9 日公布，Anthropic 旗下 AI 模型在測試期間，透過未破兇殺案網站 PhillyUnsolvedMurders.com 提交虛假線索，內容聲稱掌握案件相關資料，Anthropic 官方報告確認涉及 Claude Haiku 4.5，警方表示系統將提交內容標記為垃圾郵件，沒有轉交調查人員核實，亦未發現警方系統遭未授權存取或資料外洩證據。",
+      "source": "unwire.hk"
+    },
+    {
+      "title": "Anthropic 斥 1 億美元培訓 1 萬 AI 工程師　4 日集訓加 12 星期企業實戰",
+      "link": "https://unwire.hk/2026/10/10/anthropic-claude-frontier-academy-10000-engineers/fun-tech/?utm_source=rss&utm_medium=rss&utm_campaign=anthropic-claude-frontier-academy-10000-engineers",
+      "pubDate": "2026-10-10 13:30:29",
+      "description": "AI 公司 Anthropic 於 10 月 2 日宣布推出「Claude Frontier Academy」 […]",
+      "source": "unwire.hk"
+    },
+    {
+      "title": "Nikon 取消顯微影片冠軍資格　違反生成式 AI 規則將檢討評審程序",
+      "link": "https://unwire.hk/2026/10/10/nikon-small-world-motion-winner-disqualified-generative-ai/dc/photogism/?utm_source=rss&utm_medium=rss&utm_campaign=nikon-small-world-motion-winner-disqualified-generative-ai",
+      "pubDate": "2026-10-10 13:00:39",
+      "description": "Nikon 於 10 月 9 日公布，2026 年 Small World in Motion 顯微影片比賽原冠軍作品違反生成式 AI 規則，取消 Ning Xu 博士作品資格並調整排名，作品原稱展示患有原發性纖毛運動障礙（PCD）兒童呼吸道纖毛活動，研究人員質疑影像結構及運動不符實際生物特徵，促使主辦方重新審查影片與佐證資料。",
+      "source": "unwire.hk"
+    },
+    {
+      "title": "Meta 禁止字節跳動落廣告　TikTok 第三方宣傳亦受限制",
+      "link": "https://unwire.hk/2026/10/10/meta-bans-bytedance-tiktok-ads-seven-countries/life-tech/social-network/?utm_source=rss&utm_medium=rss&utm_campaign=meta-bans-bytedance-tiktok-ads-seven-countries",
+      "pubDate": "2026-10-10 12:11:53",
+      "description": "Meta 自 10 月 8 日起禁止 TikTok 母公司字節跳動（ByteDance）在美國等 7 個國家，透過旗下平台投放廣告及付費宣傳訊息，並限制第三方廣告商刊登連往 TikTok 或其他 ByteDance 服務廣告，Meta 發言人隨後確認安排，令雙方圍繞用戶、創作者及廣告收入競爭進一步升溫。",
+      "source": "unwire.hk"
+    }
+  ],
+  "scam": [
+    {
+      "title": "今年首8個月逾2100名青少年因刑事罪行被捕　按年升23%",
+      "link": "https://news.rthk.hk/rthk/ch/component/k2/1873439-20261010.htm",
+      "pubDate": "2026-10-10 10:40:04",
+      "description": "警務處處長周一鳴表示，今年首8個月有2144名青少年因刑事罪行被捕，按年升幅達23%。\r\n\r\n周一鳴出席一個學界公民教育活動致辭時指出，被捕個案主要涉及傷人及嚴重毆打，絕大部分因瑣碎糾紛，一時衝動犯案；其次為詐騙及洗黑錢，年輕人可能因一時貪念，被不法分子利用作「跑腿」收取騙款或借出戶口；另外亦涉及刑事毀壞，部分與非法收債及「賺快錢」有關。\r\n\r\n周一鳴強調，警隊非常重視提升青少年的守法意識及防罪能力，警方剛發布最新一期《師長攻略 • 青少年陷阱解密》，拆解各類陷阱及青少年的認知誤區；亦會繼續安排網罪科、財富情報及調查科和毒品調查科等向學生提供培訓，分享最新的罪案趨勢和犯案手法等，引導青年建立正",
+      "source": "RTHK本地"
+    },
+    {
+      "title": "合作查驗 過關方便",
+      "link": "https://www.news.gov.hk/chi/2026/10/20261009/20261009_163715_417.html",
+      "pubDate": "2026-10-09 16:00:00",
+      "description": "重建後的皇崗口岸採用嶄新的「合作查驗、一次放行」通關模式，旅客以自助通道過關，只需排隊一次和出示一次證件，即可完成港深兩地的出入境手續，合資格人士更可選擇「刷臉通關」，免出示證件使用自助通道，方便快捷。\n \n要使用合作查驗自助通道，享受「極速」過關體驗，合資格香港居民和訪港旅客記得首先進行登記。\n \n登記過程同樣便捷，合資格香港居民可使用智能電話下載入境事務處的「香港e-道」流動應用程式，以「智方便」核實身分，便可按指示完成登記手續。\n \n皇崗口岸也設有e-道登記處、自助服務站，讓香港居民即場登記；內地訪客也可到皇崗口岸e-道登記處登記。\n \n此外，合資格香港居民和內地訪客，均可在合作查驗自助",
       "source": "政府新聞網-治安"
     },
     {
@@ -39,6 +75,6 @@
     }
   ],
   "scam_is_fallback": false,
-  "unwire_count": 0,
+  "unwire_count": 5,
   "scam_count": 5
 }
