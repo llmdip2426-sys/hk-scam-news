@@ -1,49 +1,56 @@
 {
-  "updated_at": "2026-10-11 06:11:39",
+  "updated_at": "2026-10-12 09:04:05",
   "unwire": [
     {
-      "title": "記憶體漲價推高升級成本　新款 Intel CPU 延續 DDR4 平台讓用戶保留舊零件",
-      "link": "https://unwire.hk/2026/10/10/intel-new-cpu-ddr4-ram-prices-upgrade-cost/notebook/?utm_source=rss&utm_medium=rss&utm_campaign=intel-new-cpu-ddr4-ram-prices-upgrade-cost",
-      "pubDate": "2026-10-10 15:00:28",
-      "description": "記憶體價格持續上升，升級電腦不只要考慮 CPU 售價，更換主機板及 RAM 開支亦增加，在成本壓力下，Gigabyte 預告 2027 年初推出新款 Intel LGA1700 處理器，並為全線 B760 及 H610 主機板提供 BIOS 支援，涵蓋 DDR4 與 DDR5 版本，讓部分用戶有機會保留現有主機板及記憶體升級。",
+      "title": "全球 PC 出貨量第 3 季急跌 20.1%　IDC 指記憶體漲價抑制需求",
+      "link": "https://unwire.hk/2026/10/11/idc-pc-shipments-q3-2026-drop/notebook/?utm_source=rss&utm_medium=rss&utm_campaign=idc-pc-shipments-q3-2026-drop",
+      "pubDate": "2026-10-11 14:00:09",
+      "description": "市場研究機構 IDC 公布，2026 年第 3 季全球 PC 出貨量為 6,270 萬部，按年下跌 20.1%，按季跌 9.1%，為連續第 2 個季度下跌，跌幅較第 2 季的 3.8% 更深。供應限制與 AI 資料中心擴充推高價格為主要原因。",
       "source": "unwire.hk"
     },
     {
-      "title": "Claude 向費城警方提交虛假兇殺案線索　Anthropic 暫停內部互聯網連接評估",
-      "link": "https://unwire.hk/2026/10/10/anthropic-claude-false-homicide-tip-philadelphia-police/ai/?utm_source=rss&utm_medium=rss&utm_campaign=anthropic-claude-false-homicide-tip-philadelphia-police",
-      "pubDate": "2026-10-10 14:00:19",
-      "description": "費城警察局於 10 月 9 日公布，Anthropic 旗下 AI 模型在測試期間，透過未破兇殺案網站 PhillyUnsolvedMurders.com 提交虛假線索，內容聲稱掌握案件相關資料，Anthropic 官方報告確認涉及 Claude Haiku 4.5，警方表示系統將提交內容標記為垃圾郵件，沒有轉交調查人員核實，亦未發現警方系統遭未授權存取或資料外洩證據。",
+      "title": "Apple 減 iPhone 18 Pro 零件訂單　全面加價後需求比預期大減",
+      "link": "https://unwire.hk/2026/10/11/apple-cuts-iphone-18-pro-orders/mobile-phone/?utm_source=rss&utm_medium=rss&utm_campaign=apple-cuts-iphone-18-pro-orders",
+      "pubDate": "2026-10-11 13:00:31",
+      "description": "據報 Apple 已要求部分供應商減產 iPhone 18 Pro 系列零件，原因是需求低於預期，10 月零件訂單較原先要求減少至少 15%，兩款 Pro 機款香港起售價分別增加 HK$1,100 及 HK$1,300，記憶體晶片成本上升為主因。Apple 暫未證實有關報道。",
       "source": "unwire.hk"
     },
     {
-      "title": "Anthropic 斥 1 億美元培訓 1 萬 AI 工程師　4 日集訓加 12 星期企業實戰",
-      "link": "https://unwire.hk/2026/10/10/anthropic-claude-frontier-academy-10000-engineers/fun-tech/?utm_source=rss&utm_medium=rss&utm_campaign=anthropic-claude-frontier-academy-10000-engineers",
-      "pubDate": "2026-10-10 13:30:29",
-      "description": "AI 公司 Anthropic 於 10 月 2 日宣布推出「Claude Frontier Academy」 […]",
+      "title": "歐盟內部測試中國開源 AI 模型　ENISA 及 JRC 首度公開確認",
+      "link": "https://unwire.hk/2026/10/11/eu-enisa-jrc-test-chinese-ai/ai/?utm_source=rss&utm_medium=rss&utm_campaign=eu-enisa-jrc-test-chinese-ai",
+      "pubDate": "2026-10-11 12:00:52",
+      "description": "歐盟網絡安全局 ENISA 和歐盟委員會內部科研機構聯合研究中心（JRC），已開始測試來自中國的開放權重 AI 模型，3 名歐盟官員證實有關工作，為 2 個機構首次公開談及此事。",
       "source": "unwire.hk"
     },
     {
-      "title": "Nikon 取消顯微影片冠軍資格　違反生成式 AI 規則將檢討評審程序",
-      "link": "https://unwire.hk/2026/10/10/nikon-small-world-motion-winner-disqualified-generative-ai/dc/photogism/?utm_source=rss&utm_medium=rss&utm_campaign=nikon-small-world-motion-winner-disqualified-generative-ai",
-      "pubDate": "2026-10-10 13:00:39",
-      "description": "Nikon 於 10 月 9 日公布，2026 年 Small World in Motion 顯微影片比賽原冠軍作品違反生成式 AI 規則，取消 Ning Xu 博士作品資格並調整排名，作品原稱展示患有原發性纖毛運動障礙（PCD）兒童呼吸道纖毛活動，研究人員質疑影像結構及運動不符實際生物特徵，促使主辦方重新審查影片與佐證資料。",
+      "title": "Super Micro 案「fixer」認罪　美中 AI 晶片之爭再添走私個案",
+      "link": "https://unwire.hk/2026/10/11/super-micro-fixer-guilty-ai-servers/ai/?utm_source=rss&utm_medium=rss&utm_campaign=super-micro-fixer-guilty-ai-servers",
+      "pubDate": "2026-10-11 11:00:14",
+      "description": "涉嫌與 Super Micro Computer 共同創辦人廖益賢合謀，把搭載 Nvidia 晶片的 AI 伺服器轉運到中國的前承包商孫廷偉（Ting-Wei \"Willy\" Sun）於週四在紐約曼哈頓聯邦法院認罪，美國檢方 3 月指控這宗案件涉及約 25 億美元（約港幣 195 億元）AI 技術，在美中爭奪 AI 主導權之際，案件再次引起外界關注晶片出口管制能否有效執行。",
       "source": "unwire.hk"
     },
     {
-      "title": "Meta 禁止字節跳動落廣告　TikTok 第三方宣傳亦受限制",
-      "link": "https://unwire.hk/2026/10/10/meta-bans-bytedance-tiktok-ads-seven-countries/life-tech/social-network/?utm_source=rss&utm_medium=rss&utm_campaign=meta-bans-bytedance-tiktok-ads-seven-countries",
-      "pubDate": "2026-10-10 12:11:53",
-      "description": "Meta 自 10 月 8 日起禁止 TikTok 母公司字節跳動（ByteDance）在美國等 7 個國家，透過旗下平台投放廣告及付費宣傳訊息，並限制第三方廣告商刊登連往 TikTok 或其他 ByteDance 服務廣告，Meta 發言人隨後確認安排，令雙方圍繞用戶、創作者及廣告收入競爭進一步升溫。",
+      "title": "八旬翁歸還 132 年前圖書館雜誌　傳免罰 9.4 萬元　官方上限其實僅 78 元",
+      "link": "https://unwire.hk/2026/10/11/library-132-year-overdue-magazine-fine-cap/hottopic/?utm_source=rss&utm_medium=rss&utm_campaign=library-132-year-overdue-magazine-fine-cap",
+      "pubDate": "2026-10-11 08:30:13",
+      "description": "美國新罕布什爾州康科德公共圖書館（Concord Public Library）近日收到一本 1894 年出版 […]",
       "source": "unwire.hk"
     }
   ],
   "scam": [
     {
-      "title": "今年首8個月逾2100名青少年因刑事罪行被捕　按年升23%",
-      "link": "https://news.rthk.hk/rthk/ch/component/k2/1873439-20261010.htm",
-      "pubDate": "2026-10-10 10:40:04",
-      "description": "警務處處長周一鳴表示，今年首8個月有2144名青少年因刑事罪行被捕，按年升幅達23%。\r\n\r\n周一鳴出席一個學界公民教育活動致辭時指出，被捕個案主要涉及傷人及嚴重毆打，絕大部分因瑣碎糾紛，一時衝動犯案；其次為詐騙及洗黑錢，年輕人可能因一時貪念，被不法分子利用作「跑腿」收取騙款或借出戶口；另外亦涉及刑事毀壞，部分與非法收債及「賺快錢」有關。\r\n\r\n周一鳴強調，警隊非常重視提升青少年的守法意識及防罪能力，警方剛發布最新一期《師長攻略 • 青少年陷阱解密》，拆解各類陷阱及青少年的認知誤區；亦會繼續安排網罪科、財富情報及調查科和毒品調查科等向學生提供培訓，分享最新的罪案趨勢和犯案手法等，引導青年建立正",
-      "source": "RTHK本地"
+      "title": "警搗將軍澳電騙中心拘24歲男子　以「貓池」打2.3萬詐騙電話",
+      "link": "https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20261011/s00001/1791701927939/%E8%AD%A6%E6%90%97%E5%B0%87%E8%BB%8D%E6%BE%B3%E9%9B%BB%E9%A8%99%E4%B8%AD%E5%BF%83%E6%8B%9824%E6%AD%B2%E7%94%B7%E5%AD%90-%E4%BB%A5%E3%80%8C%E8%B2%93%E6%B1%A0%E3%80%8D%E6%89%932-3%E8%90%AC%E8%A9%90%E9%A8%99%E9%9B%BB%E8%A9%B1",
+      "pubDate": "2026-10-11 06:45:09",
+      "description": "警方破獲一個位於將軍澳住宅單位的詐騙電話中心，檢獲「貓池」通訊設備等證物，以涉嫌詐騙拘捕一名24歲本地男子。初步相信電騙中心運作約一星期，至少涉及一宗損失約10萬元的騙案。",
+      "source": "明報即時港聞"
+    },
+    {
+      "title": "歡迎大灣區律師管理辦法發布",
+      "link": "https://www.news.gov.hk/chi/2026/10/20261011/20261011_090942_690.html",
+      "pubDate": "2026-10-10 16:00:00",
+      "description": "律政司歡迎司法部發布並於本月5日起正式施行《粵港澳大灣區律師執業考試和執業活動管理辦法》。《管理辦法》明確規範大灣區考試報名條件，申請執業程序和執業範圍等事項，包括訂明相關考試每兩年舉辦一次。\n \n隨着為期數年的大灣區律師試點工作於本月4日屆滿，全國人民代表大會常務委員會早前已通過修改《中華人民共和國律師法》，正式將大灣區律師制度恆常化，同時訂明相關細節均由國務院司法行政部門依法規定。\n \n律政司司長林定國表示，修訂後的《律師法》連同《管理辦法》， 確立大灣區律師執業制度和實施細則，為該制度的長期穩健運行提供堅實的法律保障和清晰的指引，他對此表示熱烈歡迎，並感謝內地機關的大力支持。\n \n未來，",
+      "source": "政府新聞網-治安"
     },
     {
       "title": "合作查驗 過關方便",
@@ -64,13 +71,6 @@
       "link": "https://www.news.gov.hk/chi/2026/10/20261009/20261009_142748_074.html",
       "pubDate": "2026-10-08 16:00:00",
       "description": "皇崗口岸下周一上午6時30分正式開通運行，警方當日零時零分會在口岸設立指揮中心，清晨時分開始實施人群管理措施。踏入6時30分，落馬洲口岸會截龍，警方會將所有前往深圳的車輛引流至皇崗口岸。\n \n警務處邊界區指揮官劉經倫今日在跨部門記者會上表示，因應10月11日晚上會有傳媒採訪活動，而且預計有市民乘搭尾班車，或在落馬洲口岸、新田公共運輸交匯處停止運作前到場拍照留念，警方的指揮中心會實時監察人流和車流，並在清晨時分部署人手，在各個行動地點執勤，以實施有效的人群管理措施。\n \n踏入6時30分，落馬洲口岸會截龍，警方會在落馬洲口岸入口放置水馬，並將所有前往深圳的車輛引流至皇崗口岸。確認所有北上南下的旅客",
-      "source": "政府新聞網-治安"
-    },
-    {
-      "title": "提早登記皇崗口岸自助通道",
-      "link": "https://www.news.gov.hk/chi/2026/10/20261009/20261009_142929_315.html",
-      "pubDate": "2026-10-08 16:00:00",
-      "description": "皇崗口岸下周一正式開通運行，入境事務處再次呼籲市民提早透過香港e-道流動應用程式，登記使用皇崗口岸的合作查驗自助通道。截至今日中午，已經有超過16萬名香港居民登記。\n \n入境處助理處長（管制）汪奇今日在跨部門記者會上說，下周一，入境處會為早上6時30分前抵達落馬洲管制站或內地舊皇崗口岸的旅客完成辦理出入境手續，到當日早上6時30分，旅客可以開始使用皇崗口岸往返港深兩地。\n \n入境處將連同警務處、海關、運輸署等相關部門，在皇崗口岸成立聯合指揮中心，並與深圳出入境邊防檢查總站等內地部門緊密聯繫，密切留意人流、車流情況，即時採取應對措施，確保旅客和車輛通關暢順。\n \n海關助理關長（邊境及港口）蔣依莉",
       "source": "政府新聞網-治安"
     }
   ],
