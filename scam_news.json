@@ -1,8 +1,52 @@
 {
-  "updated_at": "2026-10-15 08:19:00",
-  "unwire": [],
-  "scam": [],
-  "scam_is_fallback": true,
-  "unwire_count": 0,
-  "scam_count": 0
+  "updated_at": "2026-10-16 08:07:36",
+  "unwire": [
+    {
+      "title": "網傳 Claude 封號 Meme  用家向 Claude 呻「調休」即遭封鎖帳號",
+      "link": "https://unwire.hk/2026/10/15/claude-ban-meme-baidu/life-tech/social-network/?utm_source=rss&utm_medium=rss&utm_campaign=claude-ban-meme-baidu",
+      "pubDate": "2026-10-15 11:45:27",
+      "description": "打工仔一句日常抱怨，竟瞬間暴露非支援地區身份而遭系統封鎖。最近網上瘋傳一張讓人啼笑皆非的截圖，事緣有打工仔在週 […]",
+      "source": "unwire.hk"
+    },
+    {
+      "title": "Cambridge Audio Spira 黑膠唱盤登場   4 個顏色配同色搭喇叭 可無線播放",
+      "link": "https://unwire.hk/2026/10/15/cambridge-audio-spira/movie-2/?utm_source=rss&utm_medium=rss&utm_campaign=cambridge-audio-spira",
+      "pubDate": "2026-10-15 11:41:27",
+      "description": "英國知名音響品牌 Cambridge Audio 繼今年初推出備受歡迎的 L/R 系列主動式喇叭 […]",
+      "source": "unwire.hk"
+    },
+    {
+      "title": "Sony 迅速應對 PS5 被破解    用家需要升級 14.10 新版 否則不能連線 PSN",
+      "link": "https://unwire.hk/2026/10/15/ps5-firmware-1410-psn-jailbreak-restriction/game-channel/?utm_source=rss&utm_medium=rss&utm_campaign=ps5-firmware-1410-psn-jailbreak-restriction",
+      "pubDate": "2026-10-15 11:25:41",
+      "description": "Sony 近日開始要求 PS5 玩家升級至 14.10 系統韌體版本，否則無法登入 PlayStation N […]",
+      "source": "unwire.hk"
+    },
+    {
+      "title": "學生聖誕送錯 iPhone 殼  暖心老師自費買同款頂替 原裝完好珍藏 8 年",
+      "link": "https://unwire.hk/2026/10/15/student-gift-wrong-iphone-case-kept-8-years/mobile-phone/phone-parts/?utm_source=rss&utm_medium=rss&utm_campaign=student-gift-wrong-iphone-case-kept-8-years",
+      "pubDate": "2026-10-15 11:10:09",
+      "description": "在人際關係裡，最動人往往不是禮物本身價值，而是背後全心全意呵護對方的心意。近日社交平台有一篇名為「一個錯誤的手 […]",
+      "source": "unwire.hk"
+    },
+    {
+      "title": "Magic-Pro 推 70W GaN 充電產品     Gw70s 主打 AVS 快充、BTA70 配備 8 合 1 插座",
+      "link": "https://unwire.hk/2026/10/15/magic-pro-gw70s-bta70-70w-gan-chargers/notebook/?utm_source=rss&utm_medium=rss&utm_campaign=magic-pro-gw70s-bta70-70w-gan-chargers",
+      "pubDate": "2026-10-15 11:04:23",
+      "description": "Magic-Pro 推出 ProMini Gw70s 插牆式充電器及 ProMini BTA70 旅行插座，售 […]",
+      "source": "unwire.hk"
+    }
+  ],
+  "scam": [
+    {
+      "title": "與銀行有關的騙案通知",
+      "link": "https://www.info.gov.hk/gia/general/202610/15/P2026101500489.htm",
+      "pubDate": "2026-10-15 10:00:00",
+      "description": "下稿代香港金融管理局發出︰\r\n　　​香港金融管理局（金管局）呼籲市民提高警覺，留意以下銀行已就欺詐網站、網上銀行登入畫面、偽冒電郵或其他騙案發出新聞稿。有關銀行已向金管局匯報事件，其新聞稿的超連結已上載至金管局網站。\r\n \r\n\n\n銀行\r\n\t\t\t騙案類別\r\n\t\t\n\n香港上海滙豐銀行有限公司\r\n\t\t\t欺詐流動應用程式\r\n\t\t\n\n華僑銀行（香港）有限公司\r\n\t\t\t欺詐網站及網上銀行登入畫面\r\n\t\t\n\r\n \r\n　　金管局提醒公眾，銀行不會透過短訊或電郵超連結，引領他們到其網站進行交易，更不會以電話、電郵及手機短訊（包括以超連結方式），要求客戶提供任何敏感資料（包括登入密碼和一次性密碼）。\r\n　　 \r\n",
+      "source": "新聞公報"
+    }
+  ],
+  "scam_is_fallback": false,
+  "unwire_count": 5,
+  "scam_count": 1
 }
