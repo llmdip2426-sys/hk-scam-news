@@ -1,80 +1,8 @@
 {
-  "updated_at": "2026-10-20 08:56:19",
-  "unwire": [
-    {
-      "title": "Google Gemini 4 AI 代理自行玩 Minecraft 爆機　耗時 27 小時死亡 605 次",
-      "link": "https://unwire.hk/2026/10/19/google-gemini-4-minecraft-ai-agents-complete/game-channel/?utm_source=rss&utm_medium=rss&utm_campaign=google-gemini-4-minecraft-ai-agents-complete",
-      "pubDate": "2026-10-19 14:00:40",
-      "description": "Google DeepMind 研究團隊公布一項 AI 代理實驗，讓 4 個 Gemini 4 Argon 代理在沒有真人介入操作的情況下合作完成《Minecraft》主要遊戲目標。經過 27 小時 14 分鐘，代理成功擊敗終界龍（Ender Dragon），期間自行編寫 2,783 個 JavaScript 程式，並在遊戲中合共死亡 605 次。",
-      "source": "unwire.hk"
-    },
-    {
-      "title": "iPhone Duo 電池 4,883mAh 大過 Samsung 摺機 仍不及 Oppo、Honor",
-      "link": "https://unwire.hk/2026/10/19/iphone-duo-battery-4883mah-eu-label-galaxy-z-fold-8/mobile-phone/?utm_source=rss&utm_medium=rss&utm_campaign=iphone-duo-battery-4883mah-eu-label-galaxy-z-fold-8",
-      "pubDate": "2026-10-19 13:58:42",
-      "description": "Apple 一向甚少公開 iPhone 的電池容量，但首款摺機 iPhone Duo 即將開售，Apple 日 […]",
-      "source": "unwire.hk"
-    },
-    {
-      "title": "律師用 AI 撰寫法庭文件頻出假案例　新工具 CiteProof 不用 AI 核查法律引用",
-      "link": "https://unwire.hk/2026/10/19/citeproof-ai-legal-citation-verification/fun-tech/?utm_source=rss&utm_medium=rss&utm_campaign=citeproof-ai-legal-citation-verification",
-      "pubDate": "2026-10-19 13:00:51",
-      "description": "生成式 AI 在法律界的應用持續增加，但 AI 虛構法律案例和判詞內容的問題仍不時出現。新推出的網上工具 CiteProof 專門檢查法律文件中的案例引用，利用公開法院紀錄辨識不存在的判例、錯配的案例名稱及被修改的判詞。開發商強調核查過程不使用大型語言模型，避免再由 AI 猜測引用是否正確。",
-      "source": "unwire.hk"
-    },
-    {
-      "title": "Apple 傳研發 HomeView Max　9 吋螢幕可 360 度旋轉　最快 2027 年推出",
-      "link": "https://unwire.hk/2026/10/19/apple-homeview-max-9-inch-360-rotation/wireless-home/?utm_source=rss&utm_medium=rss&utm_campaign=apple-homeview-max-9-inch-360-rotation",
-      "pubDate": "2026-10-19 12:00:17",
-      "description": "Apple 才剛發表智能家居中樞 HomeView，市場已傳出更高階型號消息。Bloomberg 記者 Mark Gurman 指 Apple 正計劃推出配備 9 吋螢幕的新版本，並利用機械臂讓螢幕旋轉 360 度，預計 2027 年或 2028 年登場。不過新產品目前仍屬傳聞，Apple 未有正式公布。",
-      "source": "unwire.hk"
-    },
-    {
-      "title": "Elon Musk 大派 SpaceX 股票　全美兒童一人一股總值料達 819 億港元",
-      "link": "https://unwire.hk/2026/10/19/elon-musk-spacex-shares-american-children/fun-tech/?utm_source=rss&utm_medium=rss&utm_campaign=elon-musk-spacex-shares-american-children",
-      "pubDate": "2026-10-19 11:00:07",
-      "description": "Elon Musk 於 10 月 19 日在社交平台 X 宣布，計劃在 2027 年向美國每名兒童贈送 1 股 SpaceX 股票，並表示這將是連串贈股計劃的第一步。若以全美約 7,200 萬名未成年人計算，涉及股票總值估計超過 105 億美元（約港幣 819 億元）。不過 Elon Musk 尚未交代具體安排或受惠資格。",
-      "source": "unwire.hk"
-    }
-  ],
-  "scam": [
-    {
-      "title": "WhatsApp 正開發「要求位置」按鈕　可向別人請求定位資訊",
-      "link": "https://hk.news.yahoo.com/whatsapp-%E6%AD%A3%E9%96%8B%E7%99%BC-%E8%A6%81%E6%B1%82%E4%BD%8D%E7%BD%AE-%E6%8C%89%E9%88%95-%E5%8F%AF%E5%90%91%E5%88%A5%E4%BA%BA%E8%AB%8B%E6%B1%82%E5%AE%9A%E4%BD%8D%E8%B3%87%E8%A8%8A-003059536.html",
-      "pubDate": "2026-10-20 00:30:59",
-      "description": "平日我們跟別人相約見面，有需要時可分享個人當前位置，方便別人尋找或讓別人得知大約還要等多久。日後我們透過 Wh... 這篇文章 WhatsApp 正開發「要求位置」按鈕 可向別人請求定位資訊 最早出現於 PC3 Magazine。",
-      "source": "Yahoo香港"
-    },
-    {
-      "title": "3DS識別卡主授權 IT界倡效歐強制驗證",
-      "link": "https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/article/20261018/s00001/1792259118726/3ds%E8%AD%98%E5%88%A5%E5%8D%A1%E4%B8%BB%E6%8E%88%E6%AC%8A-it%E7%95%8C%E5%80%A1%E6%95%88%E6%AD%90%E5%BC%B7%E5%88%B6%E9%A9%97%E8%AD%89",
-      "pubDate": "2026-10-17 20:30:00",
-      "description": "【明報專訊】匯豐、恒生及中銀昨日均表示留意到盜卡買手機事件，但是否採用3DS驗證由商戶決定。香港資訊科技商會榮譽會長方保僑說，3DS是在扣款前識別交易是由用家本人授權抑或被盜用的機制，只要騙徒無同時持有持卡人手機作短訊單次密碼或銀行應用程式驗證，就無法刷卡。方表示據其了解，蘋果在全球大部分地區官網結帳時通常都無強制採用3DS，以確保新機預訂高峰期客戶有最流暢結帳體驗。他認為近年本港常有網上騙案，政府有需要參考歐盟SCA（強化客戶身分驗證）法規，強制網上交易須額外驗證身分。",
-      "source": "明報港聞"
-    },
-    {
-      "title": "加強措施應對皇崗入境人流高峰",
-      "link": "https://www.news.gov.hk/chi/2026/10/20261019/20261019_184034_072.html",
-      "pubDate": "2026-10-18 16:00:00",
-      "description": "保安局表示，今日下午2時至4時期間約有9,401名旅客經皇崗口岸入境回港，較皇崗口岸/落馬洲管制站過往同期上升366%。各部門加強措施應對皇崗口岸入境人流高峰。\n \n皇崗口岸今日下午2時起，南下旅客人流開始增多。該口岸L4層入境大堂所有過關通道全部開放，為進一步加快疏導人流，入境處會視乎實際人流情況，連同警方實施人流分流及管制措施。\n \n局方指，若人流持續增加，警方會按需要安排旅客在過關後在指定排隊區等候，在安全有序情況下等候公共交通工具，市民或需在排隊區稍事等候方能乘搭公共交通工具離開口岸。\n \n入境處已透過保安局「口岸通」平台公布最新輪候時間資訊，旅客可查看包括皇崗口岸在內的各口岸最新出入",
-      "source": "政府新聞網-治安"
-    },
-    {
-      "title": "林定國赴文萊出席東盟會議",
-      "link": "https://www.news.gov.hk/chi/2026/10/20261019/20261019_101452_780.html",
-      "pubDate": "2026-10-18 16:00:00",
-      "description": "律政司司長林定國今日下午啟程前往文萊，出席第16屆中國---東盟成員國總檢察長會議及相關活動。\n \n他將以中國代表團成員身分出席會議，並在討論環節上就有關在數碼時代保護兒童的主題發表演說，與東南亞國家聯盟成員國探討加強國際合作，以保護兒童免受網絡罪行威脅。\n \n科技創新為兒童成長帶來多元發展機會，同時也令他們面臨多重前所未有的風險，包括在未經同意下發布私密影像和深度偽造等安全問題。由於針對兒童的網絡罪行不受地域限制，緊密的跨境合作必不可少。林定國將在會議上向東盟成員國介紹香港保護兒童免受網絡罪行侵害的現行法律框架，以及為應對新興風險提出的政策方向和措施。\n \n在文萊訪問期間，他也會參與中國代表",
-      "source": "政府新聞網-治安"
-    },
-    {
-      "title": "高峰時段約一萬九千人經皇崗離境",
-      "link": "https://www.news.gov.hk/chi/2026/10/20261018/20261018_173129_174.html",
-      "pubDate": "2026-10-17 16:00:00",
-      "description": "保安局表示，皇崗口岸今日上午約11時起，北上旅客顯著增加。入境事務處即時開放L5層離境大堂所有過關通道和櫃位，加快疏導人流，並與警務處於L2和L5層實施人流分流和管制措施。\n \n該局指出，今日中午12時至下午2時，約19,000名旅客經皇崗口岸離境前往內地，較皇崗口岸/落馬洲管制站過往同期上升835%。在下午1時至2時最高峰時段，更有9,728人次於一小時內離境，較皇崗口岸/落馬洲管制站過往同期上升899%。\n \n面對人流突增，相關部門早前制定的各項預案及時啟動，整體運作大致暢順。旅客於上述高峰時段進入皇崗口岸，在L2層輪候人流分流安排的時間約為30至45分鐘，而在L5層離境大堂的輪候時間則維",
-      "source": "政府新聞網-治安"
-    }
-  ],
-  "scam_is_fallback": false,
-  "unwire_count": 5,
-  "scam_count": 5
+  "updated_at": "2026-10-21 08:24:20",
+  "unwire": [],
+  "scam": [],
+  "scam_is_fallback": true,
+  "unwire_count": 0,
+  "scam_count": 0
 }
