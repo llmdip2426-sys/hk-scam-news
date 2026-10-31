@@ -1,8 +1,80 @@
 {
-  "updated_at": "2026-10-30 09:38:52",
-  "unwire": [],
-  "scam": [],
-  "scam_is_fallback": true,
-  "unwire_count": 0,
-  "scam_count": 0
+  "updated_at": "2026-10-31 09:26:44",
+  "unwire": [
+    {
+      "title": "Wikipedia 營運方介入紐時告 OpenAI 案 訓練可算合理使用 複述須授權",
+      "link": "https://unwire.hk/2026/10/30/wikipedia-openai-ai-copyright-fair-use/fun-tech/?utm_source=rss&utm_medium=rss&utm_campaign=wikipedia-openai-ai-copyright-fair-use",
+      "pubDate": "2026-10-30 14:02:46",
+      "description": "紐約時報等出版商指 OpenAI 及 Microsoft 用其內容訓練 AI 侵犯版權，正與兩間公司打官司。W […]",
+      "source": "unwire.hk"
+    },
+    {
+      "title": "BYD 中山紀念公園啟用兆瓦閃充站　指定車款最快 9 分鐘充至 97%",
+      "link": "https://unwire.hk/2026/10/30/byd-megawatt-flash-charging/life-tech/auto/?utm_source=rss&utm_medium=rss&utm_campaign=byd-megawatt-flash-charging",
+      "pubDate": "2026-10-30 13:28:07",
+      "description": "BYD 公布，港島西營盤中山紀念公園的兆瓦級閃充站於 10 月 3 0日啟用，並即日起投入服務。官方資料指出， […]",
+      "source": "unwire.hk"
+    },
+    {
+      "title": "生產力局物流科技博覽逾50企業參展　機械狗巡檢及AI倉庫監控亮相",
+      "link": "https://unwire.hk/2026/10/30/hkpc-logtech-expo-2026-ai-robotics/fun-tech/?utm_source=rss&utm_medium=rss&utm_campaign=hkpc-logtech-expo-2026-ai-robotics",
+      "pubDate": "2026-10-30 13:04:30",
+      "description": "香港生產力促進局於 10 月 29 日在九龍塘創新中心舉辦「物流科技博覽 2026」（LogTech Expo […]",
+      "source": "unwire.hk"
+    },
+    {
+      "title": "iPhone Duo 一星期使用體驗分享    優缺點攤開逐個數 + 8 個必學使用心得",
+      "link": "https://unwire.hk/2026/10/30/iphone-duo-one-week-impression/mobile-phone/?utm_source=rss&utm_medium=rss&utm_campaign=iphone-duo-one-week-impression",
+      "pubDate": "2026-10-30 12:46:54",
+      "description": "Apple 首部摺疊機 iPhone Duo 終於面世！作為萬眾期待的「闊摺」旗艦，它不只結合了 iPhone […]",
+      "source": "unwire.hk"
+    },
+    {
+      "title": "由「AI Chatbot」變「AI Agent」　HKBN AI+ 企業級一站式 AI 平台\t如何讓企業用 WhatsApp 自動完成工作？",
+      "link": "https://unwire.hk/2026/10/30/hkbn-ai-plus/fun-tech/?utm_source=rss&utm_medium=rss&utm_campaign=hkbn-ai-plus",
+      "pubDate": "2026-10-30 11:53:28",
+      "description": "近兩年，生成式 AI 已成為企業數碼轉型的重要工具。從撰寫文件、製作簡報到整理會議紀錄，不少員工每天都會使用 ChatGPT、Copilot 等 AI 工具提升工作效率。",
+      "source": "unwire.hk"
+    }
+  ],
+  "scam": [
+    {
+      "title": "WhatsApp 群組有四大更新　全方位幫助收發訊息並幫助別人融入群組",
+      "link": "https://hk.news.yahoo.com/whatsapp-%E7%BE%A4%E7%B5%84%E6%9C%89%E5%9B%9B%E5%A4%A7%E6%9B%B4%E6%96%B0-%E5%85%A8%E6%96%B9%E4%BD%8D%E5%B9%AB%E5%8A%A9%E6%94%B6%E7%99%BC%E8%A8%8A%E6%81%AF%E4%B8%A6%E5%B9%AB%E5%8A%A9%E5%88%A5%E4%BA%BA%E8%9E%8D%E5%85%A5%E7%BE%A4%E7%B5%84-003044288.html",
+      "pubDate": "2026-10-31 00:30:44",
+      "description": "平日我們常會使用 WhatsApp 群組，跟我們的親朋好友及工作夥伴交流訊息。我們既有機會是群組成員，也有機會... 這篇文章 WhatsApp 群組有四大更新 全方位幫助收發訊息並幫助別人融入群組 最早出現於 PC3 Magazine。",
+      "source": "Yahoo香港"
+    },
+    {
+      "title": "WhatsApp 新增四項群組功能　涵蓋提及篩選與永久置頂",
+      "link": "https://hk.news.yahoo.com/whatsapp-%E6%96%B0%E5%A2%9E%E5%9B%9B%E9%A0%85%E7%BE%A4%E7%B5%84%E5%8A%9F%E8%83%BD-%E6%B6%B5%E8%93%8B%E6%8F%90%E5%8F%8A%E7%AF%A9%E9%81%B8%E8%88%87%E6%B0%B8%E4%B9%85%E7%BD%AE%E9%A0%82-235829291.html",
+      "pubDate": "2026-10-30 23:58:29",
+      "description": "WhatsApp 本周在網誌確認，正推出四項新功能，讓用戶更容易管理群組對話及掌握各群組動態。公司指出，四項功能會陸續開放，未必即時向所有用戶提供，可能需要一段時間才全面可用。 新增提及與回覆篩選 用戶在對話列表向下滑動時出現的篩選面板，新增「提及與回覆」按鈕，與群組、最愛、未讀及自訂篩選等選項並列。點擊後，對話列表只會顯示用戶被提及或收到直接回覆的未讀群組對話，並包括 @all 訊息。 群組訊息可永久置頂 WhatsApp 將容許用戶在群組對話中永久置頂訊息，不再侷限於 24 小時、7 日或 30 日。 入群後可補發近期訊息 用戶也可在某人加入群組後，透過...",
+      "source": "Yahoo香港"
+    },
+    {
+      "title": "香港銀行同業結算有限公司提醒公眾慎防偽冒網站",
+      "link": "https://www.info.gov.hk/gia/general/202610/30/P2026103000692.htm",
+      "pubDate": "2026-10-30 11:55:00",
+      "description": "下稿代香港金融管理局發出︰\r\n　　香港銀行同業結算有限公司（結算公司）近日發現兩個偽冒成仿如結算公司官方網站的詐騙網站：\r\n \r\n\nfpshktk.sbs\r\n\ttknewfps.cc\r\n\r\n \r\n　　這些偽冒網站偽裝成「買家網上安全保障」，提供轉數快FPS網上交易安全服務，包括1）退款、2）舉報未經授權的網上交易，以及3）網上交易支援。此外，這些網站意圖誘導用戶提供銀行名稱、銀行帳號和銀行帳號持有人姓名，以便從其平台的虛擬錢包充值和提款，及進一步引導用戶與偽冒客服的人員進行對話。\r\n　　 \r\n　　結算公司澄清，這些偽冒網站與結算公司以及結算公司所有業務，均絕無關係。在一般情況下，結算公司不會直",
+      "source": "新聞公報"
+    },
+    {
+      "title": "與銀行有關的騙案通知",
+      "link": "https://www.info.gov.hk/gia/general/202610/30/P2026103000681.htm",
+      "pubDate": "2026-10-30 11:40:00",
+      "description": "下稿代香港金融管理局發出︰\r\n　　香港金融管理局（金管局）呼籲市民提高警覺，留意以下銀行已就欺詐網站、網上銀行登入畫面、偽冒電郵或其他騙案發出新聞稿。有關銀行已向金管局匯報事件，其新聞稿的超連結已上載至金管局網站。\r\n \r\n\n\n銀行\r\n\t\t\t騙案類別\r\n\t\t\n\n東亞銀行有限公司\r\n\t\t\t欺詐網站及網上銀行登入畫面\r\n\t\t\n\n創興銀行有限公司\r\n\t\t\t欺詐網站及網上銀行登入畫面\r\n\t\t\n\r\n \r\n　　金管局提醒公眾，銀行不會透過短訊或電郵超連結，引領他們到其網站進行交易，更不會以電話、電郵及手機短訊（包括以超連結方式），要求客戶提供任何敏感資料（包括登入密碼和一次性密碼）。\r\n　　 \r\n　　任何",
+      "source": "新聞公報"
+    },
+    {
+      "title": "有關PayPal Hong Kong Limited的「網絡釣魚」短訊",
+      "link": "https://www.info.gov.hk/gia/general/202610/30/P2026103000679.htm",
+      "pubDate": "2026-10-30 11:40:00",
+      "description": "下稿代香港金融管理局發出︰\r\n　　香港金融管理局（金管局）呼籲市民提高警覺，留意一個由PayPal Hong Kong Limited所發出關於「網絡釣魚」短訊的新聞稿。有關儲值支付工具持牌人已向金管局匯報事件。\r\n　　 \r\n　　金管局提醒公眾，任何人士若曾向該短訊提供其個人或戶口資料，或曾透過該短訊進行任何交易，應聯絡有關儲值支付工具持牌人，並向警方報案，或聯絡警方的反詐騙協調中心（電話號碼：18222）。",
+      "source": "新聞公報"
+    }
+  ],
+  "scam_is_fallback": false,
+  "unwire_count": 5,
+  "scam_count": 5
 }
